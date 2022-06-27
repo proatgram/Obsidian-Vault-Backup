@@ -304,5 +304,8 @@ This file is dedicated to storing player data.
 	6. Player Level (uint32)
 	7. Player Experience (uint64)
 3. **SET 2**
-	1. Subset 1
-		1. 
+	1. Subset X...
+		1. Item ID (uint16)
+		2. Inventory Slot Number (uint8)
+		3. Item Durability (uint8)
+		4. Item Modifications (string)
