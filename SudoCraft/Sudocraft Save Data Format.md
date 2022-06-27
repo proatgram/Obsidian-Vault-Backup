@@ -58,7 +58,7 @@ The third set of all of the entries should hold the level data location.
 This file contains the locations to the each player data file for every player that has played the level.
 
 ### Set 1
-1. 
+1. Players file folder locat
 
 ## Player File
 This file contains the player data for a player
