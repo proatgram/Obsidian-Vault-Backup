@@ -191,4 +191,13 @@ The file contents are laid out below.
 - `10` Set size (16 bytes)
 - Set Data for 16 bytes..
 
-#### Players f
+#### Players File
+The Players file stores the location of each of the player files for each player that has ever played in the level. 
+##### File Contents
+The file contents are laid out below.
+1. **HEADER**
+	1. File type indicator (uint8)
+	2. Save data version (double)
+2. **SET X...**
+	1. Player name (string)
+	2. 
