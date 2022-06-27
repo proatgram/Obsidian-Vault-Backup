@@ -312,4 +312,14 @@ This file is dedicated to storing player data.
 4. **SET 3**
 	1. Subset 1 (Helmet)
 		1. Item ID (uint16)
-		2. 
+		2. Item Durability (uint8)
+		3. Item Modifications (string)
+	2. Subset 2 (Tunic)
+		1. Item ID (uint16)
+		2. Item Durability (uint8)
+		3. Item Modifications (string)
+	3. Subset 3 (Leggings)
+		1. Item ID (uint16)
+		2. Item Durability (uint8)
+		3. Item Modifications (string)
+	4. Subs
