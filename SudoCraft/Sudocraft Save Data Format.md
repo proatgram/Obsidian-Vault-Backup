@@ -248,7 +248,7 @@ The Level Data File contains the the filenames for each chunk file that exists.
 
 `0108053FF000000000000002271ED4C80D00E60EEFECF5CCFFEEAAEECC1ED4C80D00E60EEF00000000000000014368756E6B732F000000000000000001000000000000000100000000000000000D414A534E32316177322E64617400`
 - `01` Header start
-- `08` Header Size
+- `08` Header size
 - Header data for 8 bytes...
 - `02` Next Set
 - `27` Set size (39 bytes)
@@ -270,4 +270,10 @@ This is the file used to save modified block and objects.
 
 ##### Example
 
-`0108073FF00000000000000217000000000000000100000000000000010000000000000000000000_`
+`0108073FF0000000000000021700000000000000010000000000000001000000000000000000000002000E00000102000E`
+- `01` Header start
+- `08` Header size
+- Header data for 8 bytes...
+- `02` Next set
+- `17` Set size (23 bytes)
+- Set data for 23 bytes
