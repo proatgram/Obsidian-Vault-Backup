@@ -80,7 +80,9 @@ The second set of entries contains some more advanced stuff
 2. Player armor set
 
 ## Level data file
-This file contains all of the level data, like generation data, and the tile data.
+This file contains all of the level data, like generation data, and the tile data. The game will not store all of the generated terrain, but only the terrain that differs from the original generation. For example, if a player destroys a tile, the destoryed tile will be saved as air in the save.
+
+The save file will have a slightly different way of storing the data, and instead of sets, it uses the actual corrdinates of the chunks as "A set". So the first set might look like 37 87 65 in decimal
 
 ### First Set of Entries
 The first set of entries contains some basic stuff about the level.
