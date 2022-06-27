@@ -141,7 +141,7 @@ The saves file is a basic file and will be relatively small, and it contains inf
 The file contents are laid out below.
 1. **HEADER**
 	1. File type indicator (uint8)
-	2. Save Data version (double)
+	2. Save data version (double)
 2. **SET X...**
 	1. Name (string)
 	2. Save Location (string)
@@ -154,5 +154,22 @@ The file contents are laid out below.
 - `36` Set Size (54 Bytes)
 - Set Data for 54 bytes...
 
-#### MainS File
+#### Mains File
 The main file is the file that will first be read to get the world data. This file contains basic level data, like the names, size, last play time, etc. It also points to different important files that include the entities folder, the players file, the important entities file, the level data folder location, and the level data file.
+##### File Contents
+The file contents are laid out below.
+1. **HEADER**
+	1. File type indicator (uint8)
+	2. Save data version (double)
+2. **SET 1**
+	1. Level Name (string)
+	2. Level Size (uint64)
+	3. Last Date Played
+		1. Time in minutes (uint16)
+		2. Number of days since January 1st 1900
+3. **SET 2**
+	1. Entity folder location (string)
+	2. Players file (string)
+	3. Important entities file (string)
+4. **SET 3**
+	1. Level data folder location
