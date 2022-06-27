@@ -172,4 +172,5 @@ The file contents are laid out below.
 	2. Players file (string)
 	3. Important entities file (string)
 4. **SET 3**
-	1. Level data folder location
+	1. Level data folder location (string)
+	2. Level data file (string)
