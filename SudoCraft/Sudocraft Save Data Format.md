@@ -255,3 +255,6 @@ The Level Data File contains the the filenames for each chunk file that exists.
 - `000000000000000100000000000000010000000000000000` Set 1x, 1y, 1z
 - `0D` Set size (13 bytes)
 - Set data for 13 bytes...
+
+#### Chunk File
+This is the file used to 
