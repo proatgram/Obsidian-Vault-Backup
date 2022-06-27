@@ -174,3 +174,7 @@ The file contents are laid out below.
 4. **SET 3**
 	1. Level data folder location (string)
 	2. Level data file (string)
+
+##### Example
+
+`010805`
