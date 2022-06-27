@@ -121,6 +121,7 @@ A type descriptor of 0, a size of 5 bytes, and then the data, consisting of five
 - `0x03` : This value refers to an important entities file. This file contains all of the entity data for important, non auto-despawnable entities.
 - `0x04` : This value refers to the world data file. This file contains the tile data and world data for a specific level
 - `0x05` : This value refers to the mains file. This is the starting file.
+- `0x06` : This value refers to the Level Save file.
 ### Data Type Definitions
 These may not be used.
 * `0x00` : int8
@@ -241,3 +242,7 @@ The Level Data File contains the the filenames for each chunk file that exists.
 	5. Chunks Folder (string)
 3. **X, Y, Z SET**
 	1. Chunk File Name (string)
+
+##### Example
+
+`0108053FF000000000000002_1ED4C80D00E60EEFECF5CCFFEEAAEECC1ED4C80D00E60EEF00000000000000014368756E6B732F00`
