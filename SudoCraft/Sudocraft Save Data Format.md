@@ -82,7 +82,7 @@ The second set of entries contains some more advanced stuff
 ## Level data file
 This file contains all of the level data, like generation data, and the tile data. The game will not store all of the generated terrain, but only the terrain that differs from the original generation. For example, if a player destroys a tile, the destoryed tile will be saved as air in the save.
 
-The save file will have a slightly different way of storing the data, and instead of sets, it uses the actual corrdinates of the chunks as "A set". So the first set might look like 37 87 65 in decimal. Each "Coordinate Set" will hold a string with the filename for the chunk data file.
+The save file will have a slightly different way of storing the data, and instead of sets, it uses the actual corrdinates of the chunks as "A set". So the first set might look like 37 81 1 in decimal. Each "Coordinate Set" will hold a string with the filename for the chunk data file.
 
 ### First Set of Entries
 The first set of entries contains some basic stuff about the level.
@@ -96,7 +96,15 @@ The first set of entries contains some basic stuff about the level.
 1. Chunk Filename (string)
 
 ## Chunk File
+This file contains all of the data for the changed blocks in one chunk. Each "Level" will take up two Y coordinate, the first one being for changed blocks, and the second one being for changed objects. For example on the first Y level for ground level would be some grass that has been mined, while on the next one there would be trees and bushes that have been mined. Each chunk is 32x32, with two Y coordinates for each level.
 
+Like the Level Data file, the "Set" system is replaced by coordinate numbers. Each coordinate number 
+
+### First Set of Entries
+The first set of entries contains some basic chunk information.
+1. Chunk coordinate
+
+### 
 
 ## Data Explanation
 This section explains the data values or each file and what they mean. We will be refering to data in hexadecimal. Each data structure, (eg. string) will have a type descriptor, a byte, and then after that, a size value, which is four bytes. And then the data. The amount of data contained in the data section must have the same size as the size descriptor.
