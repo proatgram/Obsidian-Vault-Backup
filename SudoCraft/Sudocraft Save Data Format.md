@@ -326,3 +326,5 @@ This file is dedicated to storing player data.
 		1. Item ID (uint16)
 		2. Item Durability (uint8)
 		3. Item Modifications (string)
+
+##### Example
