@@ -309,3 +309,5 @@ This file is dedicated to storing player data.
 		2. Inventory Slot Number (uint8)
 		3. Item Durability (uint8)
 		4. Item Modifications (string)
+4. **SET 3**
+	1. 
