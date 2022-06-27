@@ -257,4 +257,14 @@ The Level Data File contains the the filenames for each chunk file that exists.
 - Set data for 13 bytes...
 
 #### Chunk File
-This is the file used to 
+This is the file used to save modified block and objects.
+##### File Contents
+1. **HEADER**
+	1. File type indicator (uint8)
+	2. Save data version (double)
+2. **SET 1**
+	1. Chunk Coordinates (3x int64)
+3. **SET X, Y, Z**
+	1. Block ID
+
+##### Example
