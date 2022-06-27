@@ -228,3 +228,16 @@ The file contents are laid out below.
 - Set data for 14 bytes...
 
 #### Level Data File
+The Level Data File contains the the filenames for each chunk file that exists.
+##### File Contents
+1. **HEADER**
+	1. File type indicator (uint8)
+	2. Save data version (double)
+2. **SET 1**
+	1. Seed for height (int64)
+	2. Seed for blocks (int64)
+	3. Seed for etc (int64)
+	4. Level Size (uint64)
+	5. Chunks Folder (string)
+3. **X, Y, Z SET**
+	1. Chunk File Name (string)
