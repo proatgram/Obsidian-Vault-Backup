@@ -152,3 +152,6 @@ The file contents are laid out below.
 - `02` Next Set
 - `36` Set Size (54 Bytes)
 - Set Data for 54 bytes...
+
+#### Main File
+The main file is just a file 
