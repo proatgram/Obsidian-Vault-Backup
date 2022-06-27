@@ -358,4 +358,4 @@ This file is dedicated to storing player data.
 - Sub-set data for 3 bytes
 - `03` Next sub-set
 - `03` Sub-set size
-- Sub-set data for 
+- Sub-set data for 3 bytes
