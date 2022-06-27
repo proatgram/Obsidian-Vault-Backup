@@ -77,9 +77,11 @@ The first set of entries just contains some basic data for the player.
 7. Player experience
 
 ### Second Set of Entries
-The second set of entries contains some more advanced stuff
+The second set of entries contains the players inventory
 1. Player inventory
-2. Player armor set
+
+### Third Set of Entries
+1. Player armor set
 
 ## Level data file
 This file contains all of the level data, like generation data, and the tile data. The game will not store all of the generated terrain, but only the terrain that differs from the original generation. For example, if a player destroys a tile, the destoryed tile will be saved as air in the save.
