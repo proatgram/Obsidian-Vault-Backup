@@ -82,16 +82,21 @@ The second set of entries contains some more advanced stuff
 ## Level data file
 This file contains all of the level data, like generation data, and the tile data. The game will not store all of the generated terrain, but only the terrain that differs from the original generation. For example, if a player destroys a tile, the destoryed tile will be saved as air in the save.
 
-The save file will have a slightly different way of storing the data, and instead of sets, it uses the actual corrdinates of the chunks as "A set". So the first set might look like 37 87 65 in decimal
+The save file will have a slightly different way of storing the data, and instead of sets, it uses the actual corrdinates of the chunks as "A set". So the first set might look like 37 87 65 in decimal. Each "Coordinate Set" will hold a string with the filename for the chunk data file.
 
 ### First Set of Entries
 The first set of entries contains some basic stuff about the level.
-1. Seed for height
-2. Seed for blocks
-3. Seed for etc
-4. Level Size
+1. Seed for height (int64)
+2. Seed for blocks (int64)
+3. Seed for etc (int64)
+4. Level Size (uint64)
+5. Chunks folder path (string)
 
 ### X Set of Entries
+1. Chunk Filename (string)
+
+## Chunk File
+
 
 ## Data Explanation
 This section explains the data values or each file and what they mean. We will be refering to data in hexadecimal. Each data structure, (eg. string) will have a type descriptor, a byte, and then after that, a size value, which is four bytes. And then the data. The amount of data contained in the data section must have the same size as the size descriptor.
