@@ -188,5 +188,5 @@ The file contents are laid out below.
 - `29` Set size (41 bytes)
 - Set Data for 41 bytes...
 - `02` Next set
-- `11` Set size (17 bytes)
-- Set Data for 17 bytes..
+- `10` Set size (16 bytes)
+- Set Data for 16 bytes..
