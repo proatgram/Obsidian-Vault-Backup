@@ -98,13 +98,16 @@ The first set of entries contains some basic stuff about the level.
 ## Chunk File
 This file contains all of the data for the changed blocks in one chunk. Each "Level" will take up two Y coordinate, the first one being for changed blocks, and the second one being for changed objects. For example on the first Y level for ground level would be some grass that has been mined, while on the next one there would be trees and bushes that have been mined. Each chunk is 32x32, with two Y coordinates for each level.
 
-Like the Level Data file, the "Set" system is replaced by coordinate numbers. Each coordinate number 
+Like the Level Data file, the "Set" system is replaced by coordinate numbers. Each coordinate number is each coordinate in the chunk. 0x, 0y, 0z to 32x, 32y, 1z.
+
+If the player is in a cave, then each level the character goes down, will decrease the Y level by 2.
 
 ### First Set of Entries
 The first set of entries contains some basic chunk information.
-1. Chunk coordinate
+1. Chunk coordinate (3 int64)
 
-### 
+### X Set of Entries
+1. Block ID (uint16)
 
 ## Data Explanation
 This section explains the data values or each file and what they mean. We will be refering to data in hexadecimal. Each data structure, (eg. string) will have a type descriptor, a byte, and then after that, a size value, which is four bytes. And then the data. The amount of data contained in the data section must have the same size as the size descriptor.
