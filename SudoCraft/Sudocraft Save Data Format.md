@@ -89,15 +89,7 @@ The first set of entries contains some basic stuff about the level.
 3. Seed for etc
 4. Level Size
 
-### Second Set of Entries
-The second set of entries contains the actual terrain data.
-Each subset will be an individual bock.
-
-#### subset x...
-1. Coordinate Data
-2. Block Data
-	1. Block ID
-	2. Extra Block Data
+### X Set of Entries
 
 ## Data Explanation
 This section explains the data values or each file and what they mean. We will be refering to data in hexadecimal. Each data structure, (eg. string) will have a type descriptor, a byte, and then after that, a size value, which is four bytes. And then the data. The amount of data contained in the data section must have the same size as the size descriptor.
