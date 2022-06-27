@@ -71,8 +71,10 @@ The first set of entries just contains some basic data for the player.
 1. Player name
 2. Player ID
 3. Player health
-4. Player level
-5. Player experience
+4. Player hunger
+5. Player thirst
+6. Player level
+7. Player experience
 
 ### Second Set of Entries
 The second set of entries contains some more advanced stuff
@@ -141,6 +143,7 @@ These may not be used.
 ### Global Tag Definitions
 - `0x01` : The start of the header section
 - `0x02` : Next Set
+- `0x03` Next Sub-Set
 
 ### File Format Explanations
 #### Saves File
@@ -289,4 +292,15 @@ This file is dedicated to storing player data.
 ##### File Contents
 1. **HEADER**
 	1. File type indicator (uint8)
-	2. Save file version
+	2. Save data version (double)
+2. **SET 1**
+	1. Player Name (string)
+	2. Player ID (uint32)
+	3. Player Health (uint8)
+	4. Player Hunger (uint8)
+	5. Player Thirst (uint8)
+	6. Player Level (uint32)
+	7. Player Experience (uint64)
+3. **SET 2**
+	1. Subset 1
+		1. 
