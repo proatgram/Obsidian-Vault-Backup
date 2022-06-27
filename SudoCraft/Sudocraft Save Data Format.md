@@ -283,3 +283,6 @@ This is the file used to save modified block and objects.
 - `000001` Set 00x, 00y, 01z
 - `02` Set size
 - Set data for 2 bytes...
+
+#### Player File
+This file is dedicated to storing player data.
