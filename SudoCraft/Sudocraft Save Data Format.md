@@ -166,7 +166,7 @@ The file contents are laid out below.
 	2. Level Size (uint64)
 	3. Last Date Played
 		1. Time in minutes (uint16)
-		2. Number of days since January 1st 1900
+		2. Number of days since January 1st 1900 (uint32)
 3. **SET 2**
 	1. Entity folder location (string)
 	2. Players file (string)
