@@ -249,4 +249,9 @@ The Level Data File contains the the filenames for each chunk file that exists.
 - `01` Header start
 - `08` Header Size
 - Header data for 8 bytes...
-- 
+- `02` Next Set
+- `27` Set size (39 bytes)
+- Set data for 39 bytes...
+- `000000000000000100000000000000010000000000000000` Set 1x, 1y, 1z
+- `0D` Set size (13 bytes)
+- Set data for 13 bytes...
