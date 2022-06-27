@@ -200,3 +200,5 @@ The file contents are laid out below.
 3. **SET 1+X...**
 	1. Player name
 	2. Player file name
+
+##### Example
