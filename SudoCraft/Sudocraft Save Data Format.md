@@ -286,3 +286,7 @@ This is the file used to save modified block and objects.
 
 #### Player File
 This file is dedicated to storing player data.
+##### File Contents
+1. **HEADER**
+	1. File type indicator (uint8)
+	2. Save file version
