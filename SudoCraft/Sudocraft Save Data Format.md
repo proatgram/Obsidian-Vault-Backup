@@ -310,4 +310,6 @@ This file is dedicated to storing player data.
 		3. Item Durability (uint8)
 		4. Item Modifications (string)
 4. **SET 3**
-	1. 
+	1. Subset 1 (Helmet)
+		1. Item ID (uint16)
+		2. 
