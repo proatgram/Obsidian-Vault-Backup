@@ -148,6 +148,8 @@ These may not be used.
 - `0x03` Next Sub-Set
 
 ### File Format Explanations
+#### Important Information
+- All sizes start at 0. (If the size is 5 then it would be 0, 1, 2, 3, 4, 5. 6 elements)
 #### Saves File
 The saves file is a basic file and will be relatively small, and it contains information for the game to read to put on the save data screen, and a path to the level folder on the filesystem.
 
@@ -328,7 +330,7 @@ This file is dedicated to storing player data.
 		3. Item Modifications (string)
 
 ##### Example
-`0108023FF0000000000000021B417A6465616C7468000EE4F607FFFFFF000000000000000000000000020D0304000E1EFF000304000100FF00021703033D00FF00030300000000030300000000030400000000`
+`0108023FF0000000000000021B417A6465616C7468000EE4F607FFFFFF000000000000000000000000020D0304000E1EFF000304000100FF00021703033D00FF00030300000000030300000000030300000000`
 - `01` Header start
 - `08` Header size
 - Header data for 8 bytes..
@@ -340,4 +342,20 @@ This file is dedicated to storing player data.
 - `03` Next sub-set
 - `04` Sub-set size
 - Sub-set data for 4 bytes
-- 
+- `03` Next sub-set
+- `04` Sub-set size
+- Sub-set data for 4 bytes
+- `02` Next set
+- `17` Set size (23 bytes)
+- `03` Next sub-set
+- `03` Sub-set size
+- Sub-set data for 3 bytes
+- `03` Next sub-set
+- `03` Sub-set size
+- Sub-set data for 3 bytes
+- `03` Next sub-set
+- `03` Sub-set size
+- Sub-set data for 3 bytes
+- `03` Next sub-set
+- `03` Sub-set size
+- Sub-set data for 
