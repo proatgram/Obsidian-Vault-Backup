@@ -57,14 +57,8 @@ The third set of all of the entries should hold the level data location.
 ## Players List File
 This file contains the locations to the each player data file for every player that has played the level.
 
-### First Set of Entries
-This is the only entry and contains key and value pairs, like most of the other level files, the key being the player name, and the value being the player file.
-
-#### Subset 1
-	Player1 -> p1.dat
-	Player2 -> p2.dat
-	Player -> p3.dat
-	Somename -> p4.dat
+### Set 1
+1. 
 
 ## Player File
 This file contains the player data for a player
