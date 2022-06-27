@@ -277,3 +277,9 @@ This is the file used to save modified block and objects.
 - `02` Next set
 - `17` Set size (23 bytes)
 - Set data for 23 bytes
+- `000000` Set 00x, 00y, 00z
+- `02` Set size
+- Set data for 2 bytes...
+- `000001` Set 00x, 00y, 01z
+- `02` Set size
+- Set data for 2 bytes...
