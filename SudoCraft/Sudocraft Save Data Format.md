@@ -119,9 +119,10 @@ A type descriptor of 0, a size of 5 bytes, and then the data, consisting of five
 - `0x01` : This value referes to the players file that the game refers to in order to retrieve all of the player data files.
 - `0x02` : This value refers to a player data file. This is the file that stores all of the player data for a specific player.
 - `0x03` : This value refers to an important entities file. This file contains all of the entity data for important, non auto-despawnable entities.
-- `0x04` : This value refers to the world data file. This file contains the tile data and world data for a specific level
+- `0x04` : This value refers to the world data file. This file contains the tile data and world data for a specific level.
 - `0x05` : This value refers to the mains file. This is the starting file.
 - `0x06` : This value refers to the Level Save file.
+- `0x07` This value refers to the Chunk file.
 ### Data Type Definitions
 These may not be used.
 * `0x00` : int8
@@ -264,7 +265,9 @@ This is the file used to save modified block and objects.
 	2. Save data version (double)
 2. **SET 1**
 	1. Chunk Coordinates (3x int64)
-3. **SET X, Y, Z**
-	1. Block ID
+3. **SET X, Y, Z** (uint8)
+	1. Block ID (uint16)
 
 ##### Example
+
+`0108073FF00000000000000217000000000000000100000000000000010000000000000000000000_`
