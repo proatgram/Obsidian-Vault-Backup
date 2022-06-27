@@ -113,6 +113,7 @@ A type descriptor of 0, a size of 5 bytes, and then the data, consisting of five
 - `0x02` : This value refers to a player data file. This is the file that stores all of the player data for a specific player.
 - `0x03` : This value refers to an important entities file. This file contains all of the entity data for important, non auto-despawnable entities.
 - `0x04` : This value refers to the world data file. This file contains the tile data and world data for a specific level
+- `0x05` : This value refers to the mains file. This is the starting file.
 ### Data Type Definitions
 These may not be used.
 * `0x00` : int8
@@ -153,5 +154,5 @@ The file contents are laid out below.
 - `36` Set Size (54 Bytes)
 - Set Data for 54 bytes...
 
-#### Main File
-The main file is just a file
+#### MainS File
+The main file is the file that will first be read to get the world data. This file contains basic level data, like the names, size, last play time, etc. It also points to different important files that include the entities folder, the players file, the important entities file, the level data folder location, and the level data file.
