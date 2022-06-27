@@ -1,0 +1,154 @@
+## Table of Contents
+```toc
+```
+
+## Overal Format
+There should be a main file that redirects to other files for other save data.
+
+The way the file structure is organized is to achive the most orginization possible, and only have files be big if they need to be. So, there should be a bunch of small files pointing to a bunch of bigger files that contain the actual data.
+Ex.
+
+Main file
+	2nd set:
+		Entity Folder location -> Location to the folder containing the files shown in this set.
+		PlayersFile -> Location to the players data file.
+		ImportantEntitiesFile -> Location to the important entities file.
+
+Each file should contain in the begining, along with all of the other data, a filetype description
+
+## Saves File
+This file just stores the location and name of each level that the game displayes in the load screen.
+### First Set of Entries
+This set contains each level, its name, and its location.
+#### Level x...
+1. Level Name
+2. Level Folder Location
+
+## Main File
+Each entry dealing with file locations should, at the beggining of the entry set, should have the location to the folder that holds the data being named.
+Ex.
+
+Location={LevelName}/Entity/     # /users/user/.local/SudoCraft/saves/{LevelName}/Entity Where level name is the level name that is saved.
+PlayerLocation=player.dat      # ${Location}/Entity/player.dat
+
+### First Set of Entries
+The begining file structure will have the basic level data stored.
+1. Level Name
+	- String with null termination.
+2. Level Size
+	- Unsigned int 64
+3. Last Date Played
+	- Readable format able to be changed.
+	- Must include month, day, year, hour, and minute.
+
+### Second Set of Entries
+The second set of the entries should hold the entities file location.
+1. Entity folder location
+2. Players file
+3. Important entities file
+
+### Third Set of Entries
+The third set of all of the entries should hold the level data location.
+1. Level data folder location
+2. Level data file
+
+
+
+## Players List File
+This file contains the locations to the each player data file for every player that has played the level.
+
+### First Set of Entries
+This is the only entry and contains key and value pairs, like most of the other level files, the key being the player name, and the value being the player file.
+
+#### Subset 1
+	Player1 -> p1.dat
+	Player2 -> p2.dat
+	Player -> p3.dat
+	Somename -> p4.dat
+
+## Player File
+This file contains the player data for a player
+
+### First Set of Entries
+The first set of entries just contains some basic data for the player.
+1. Player name
+2. Player ID
+3. Player health
+4. Player level
+5. Player experience
+
+### Second Set of Entries
+The second set of entries contains some more advanced stuff
+1. Player inventory
+2. Player armor set
+
+## Level data file
+This file contains all of the level data, like generation data, and the tile data.
+
+### First Set of Entries
+The first set of entries contains some basic stuff about the level.
+1. Seed for height
+2. Seed for blocks
+3. Seed for etc
+4. Level Size
+
+### Second Set of Entries
+The second set of entries contains the actual terrain data.
+Each subset will be an individual bock.
+
+#### subset x...
+1. Coordinate Data
+2. Block Data
+	1. Block ID
+	2. Extra Block Data
+
+## Data Explanation
+This section explains the data values or each file and what they mean. We will be refering to data in hexadecimal. Each data structure, (eg. string) will have a type descriptor, a byte, and then after that, a size value, which is four bytes. And then the data. The amount of data contained in the data section must have the same size as the size descriptor.
+Ex.
+`00050000000EE39F4AA7`
+A type descriptor of 0, a size of 5 bytes, and then the data, consisting of five bytes.
+### File Types Definitions
+- `0x00` : This value referes to the saves file that the game refers to in order to get the name and folder of the level for the level load screen.
+- `0x01` : This value referes to the players file that the game refers to in order to retrieve all of the player data files.
+- `0x02` : This value refers to a player data file. This is the file that stores all of the player data for a specific player.
+- `0x03` : This value refers to an important entities file. This file contains all of the entity data for important, non auto-despawnable entities.
+- `0x04` : This value refers to the world data file. This file contains the tile data and world data for a specific level
+### Data Type Definitions
+These may not be used.
+* `0x00` : int8
+* `0x01` : int16
+* `0x02` : int32
+* `0x03` : int64
+* `0x04` : uint8
+* `0x05` : uint16
+* `0x06` : uint32
+* `0x07` : uint64
+* `0x08` : char
+* `0x09` : char* (string)
+* `0x0A` : float
+* `0x0B` : double
+
+### Global Tag Definitions
+- `0x01` : The start of the header section
+- `0x02` : Next Set
+
+### File Format Explanations
+#### Saves File
+The saves file is a basic file and will be relatively small, and it contains information for the game to read to put on the save data screen, and a path to the level folder on the filesystem.
+
+##### File Contents
+The file contents are laid out below.
+1. **HEADER**
+	1. File type indicator (uint8)
+	2. Save Data version (double)
+2. **SET X...**
+	1. Name (string)
+	2. Save Location (string)
+##### Example
+`0108003FF000000000000002364E657720576F726C642F75736572732F757365722F2E6C6F63616C2F5375646F43726166742F53617665732F4E65775F576F726C642F`
+- `01` Header start
+- `08` Header Size
+- Header Data for 9 bytes...
+- `02` Next Set
+- `36` Set Size (54 Bytes)
+- Set Data for 54 bytes...

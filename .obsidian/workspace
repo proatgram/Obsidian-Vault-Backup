@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "2de67db7be795d69",
+    "type": "split",
+    "children": [
+      {
+        "id": "8289483e32ffff4b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SudoCraft/Sudocraft Save Data Format.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81e8677c34f2cbc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "37038ea78f616470",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e31e5d815aedefa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5cf305196f0338d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0598b81bc450fa58",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b2a1c3d1344dd57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6ef5b9d9e80a96c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SudoCraft/Sudocraft Save Data Format.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1009fa9d9fe35522",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "87b5ec5c337f5fed",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8289483e32ffff4b",
+  "lastOpenFiles": [
+    "SudoCraft/Sudocraft Save Data Format.md",
+    "Untitled.md"
+  ]
+}
