@@ -203,4 +203,15 @@ The file contents are laid out below.
 
 ##### Example
 
-`0108013FF00000000000000208506C61796572732F000212417A6465616C746800303030302E6461740002_4A756D6D6900303030312E64617400`
+`0108013FF00000000000000208506C61796572732F000212417A6465616C746800303030302E64617400020E4A756D6D6900303030312E64617400`
+- `01` Header start
+- `08` Header size
+- Header data for 8 bytes...
+- `02` Next set
+- `08` Set size (8 bytes)
+- Set Data for 8 bytes...
+- `02` Next set
+- `12` Set size (18 bytes)
+- Set data for 18 bytes...
+- `02` Next set
+- ``
