@@ -55,10 +55,13 @@ The third set of all of the entries should hold the level data location.
 
 
 ## Players List File
-This file contains the locations to the each player data file for every player that has played the level.
+This file contains the locations to the each player data file for every player that has played the level. The first set always has one entry and it includes the folder path to the players folder. All of the sets after that have the player name and the player file name.
 
 ### Set 1
-1. Players file folder locat
+1. Players file folder location
+### Set 1+x...
+1. Player name
+2. Player file name
 
 ## Player File
 This file contains the player data for a player
@@ -192,6 +195,8 @@ The file contents are laid out below.
 1. **HEADER**
 	1. File type indicator (uint8)
 	2. Save data version (double)
-2. **SET X...**
-	1. Player name (string)
-	2. 
+2. **SET 1**
+	1. Player folder name
+3. **SET 1+X...**
+	1. Player name
+	2. Player file name
