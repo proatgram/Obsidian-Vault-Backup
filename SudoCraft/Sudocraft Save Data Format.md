@@ -182,4 +182,4 @@ The file contents are laid out below.
 - `08` Header Size
 - Header Data for 8 bytes...
 - `02` Next Set
-- `18` Set size (24)
+- `18` Set size (24 bytes)
