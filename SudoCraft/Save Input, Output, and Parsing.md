@@ -7,6 +7,8 @@ This is the top class that will implement the basic stuff for reading and parsin
 - Delete set
 - Replace set
 - Insert set
+- Read whole file into buffer
+- Get header data
 
 ## Implementation
 
