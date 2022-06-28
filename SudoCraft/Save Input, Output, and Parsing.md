@@ -12,3 +12,6 @@ This is the top class that will implement the basic stuff for reading and parsin
 
 ## Implementation
 
+If the programmer chooses to leave the file open and read it in pieces then we should return a char array of each section/set that he or she may request.
+
+If the programmer chooses to read all of the file contents into a buffer then we should create a new File class that should hold the file contents.
