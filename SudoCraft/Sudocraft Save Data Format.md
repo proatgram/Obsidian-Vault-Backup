@@ -123,9 +123,8 @@ A type descriptor of 0, a size of 5 bytes, and then the data, consisting of five
 - `0x01` : This value referes to the players file that the game refers to in order to retrieve all of the player data files.
 - `0x02` : This value refers to a player data file. This is the file that stores all of the player data for a specific player.
 - `0x03` : This value refers to an important entities file. This file contains all of the entity data for important, non auto-despawnable entities.
-- `0x04` : This value refers to the world data file. This file contains the tile data and world data for a specific level.
+- `0x04` : This value refers to the level data file. This file contains the files for each chunk.
 - `0x05` : This value refers to the mains file. This is the starting file.
-- `0x06` : This value refers to the Level Save file.
 - `0x07` This value refers to the Chunk file.
 ### Data Type Definitions
 These may not be used.
@@ -253,7 +252,7 @@ The Level Data File contains the the filenames for each chunk file that exists.
 
 ##### Example
 
-`0108053FF000000000000002271ED4C80D00E60EEFECF5CCFFEEAAEECC1ED4C80D00E60EEF00000000000000014368756E6B732F000000000000000001000000000000000100000000000000000D414A534E32316177322E64617400`
+`0108043FF000000000000002271ED4C80D00E60EEFECF5CCFFEEAAEECC1ED4C80D00E60EEF00000000000000014368756E6B732F000000000000000001000000000000000100000000000000000D414A534E32316177322E64617400`
 - `01` Header start
 - `08` Header size
 - Header data for 8 bytes...
