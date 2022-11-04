@@ -1,0 +1,22 @@
+{
+  "canvasSize": 8000,
+  "headLevel": 2,
+  "fontSize": 16,
+  "background": "transparent",
+  "layout": "mindmap",
+  "layoutDirect": "mindmap",
+  "protocol": "jump-to-pdf",
+  "registerPdfEvent": true,
+  "viewerTheme": 2,
+  "mindmapmode": "basic",
+  "parseMindMap": true,
+  "annotateTop": 0,
+  "annotateBottom": 0,
+  "useCustomShortcut": false,
+  "highlightFormat": "\nPage:{{page}}\n<span style=\"color:rgb({{color}})\">■</span>:{{highlightText}}\nComment:{{comment}}\n[📌]({{link}})\n^{{id}}\n",
+  "setup": 1667520643274,
+  "uid": "00p01001001100t00q00o01000t00p00q00o00o",
+  "nodeColorArray": "purple",
+  "openCodeBlock": true,
+  "useAnimate": true
+}
