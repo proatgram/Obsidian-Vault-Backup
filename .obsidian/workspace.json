@@ -28,21 +28,9 @@
                 "file": "GroupMe API/Map.md"
               }
             }
-          },
-          {
-            "id": "395a307bf3b067df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "GroupMe API/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,10 +131,11 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "395a307bf3b067df",
+  "active": "ef50c2f5e68c0593",
   "lastOpenFiles": [
-    "GroupMe API/Map.md",
     "GroupMe API/Abstraction.md",
+    "GroupMe API/Map.md",
+    "conflict-files-obsidian-git.md",
     "Untitled.md",
     "SudoCraft/Sudocraft Save Data Format.md",
     "SudoCraft/Save Input, Output, and Parsing.md"
