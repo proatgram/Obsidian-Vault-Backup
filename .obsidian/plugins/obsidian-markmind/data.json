@@ -8,7 +8,7 @@
   "protocol": "jump-to-pdf",
   "registerPdfEvent": true,
   "viewerTheme": 2,
-  "mindmapmode": "basic",
+  "mindmapmode": "rich",
   "parseMindMap": true,
   "annotateTop": 0,
   "annotateBottom": 0,
@@ -18,5 +18,6 @@
   "uid": "00p01001001100t00q00o01000t00p00q00o00o",
   "nodeColorArray": "purple",
   "openCodeBlock": true,
-  "useAnimate": true
+  "useAnimate": true,
+  "autoCreateNodeWhenAnnotate": true
 }
