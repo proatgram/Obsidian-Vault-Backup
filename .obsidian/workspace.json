@@ -100,14 +100,6 @@
             }
           },
           {
-            "id": "1009fa9d9fe35522",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
             "id": "87b5ec5c337f5fed",
             "type": "leaf",
             "state": {
@@ -122,6 +114,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "f033a30296521bcf",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -131,7 +131,7 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "ef50c2f5e68c0593",
+  "active": "f033a30296521bcf",
   "lastOpenFiles": [
     "GroupMe API/Abstraction.md",
     "GroupMe API/Map.md",
