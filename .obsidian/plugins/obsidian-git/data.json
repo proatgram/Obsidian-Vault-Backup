@@ -13,14 +13,12 @@
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
+  "gitPath": "",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "\"/home/thetimbrick/Documents/Obsidian Vault/\"",
   "differentIntervalCommitAndPush": false,
-  "changedFilesInStatusBar": true,
-  "showedMobileNotice": true,
-  "refreshSourceControlTimer": 7000,
-  "showBranchStatusBar": true
+  "changedFilesInStatusBar": true
 }
