@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2def24dd86ba8b89",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "GroupMe API/Map.md"
-              }
-            }
-          },
-          {
             "id": "b246540e0dbcd09f",
             "type": "leaf",
             "state": {
@@ -26,6 +16,16 @@
                 "file": "GroupMe API/Abstraction.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "2def24dd86ba8b89",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapview",
+              "state": {
+                "file": "GroupMe API/Map.md"
               }
             }
           },
@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GroupMe Community Docs/self.md",
+                "file": "GroupMe API/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,9 +143,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "94fd478499913123",
+  "active": "2def24dd86ba8b89",
   "lastOpenFiles": [
     "GroupMe API/Abstraction.md",
+    "GroupMe Community Docs/self.md",
     "GroupMe API/Map.md",
     "Rust For C++ Programmers/control-flow.md",
     "Rust For C++ Programmers/README.md",
