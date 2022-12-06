@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GroupMe API/Map.md",
+                "file": "GroupMe Community Docs/self.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,10 +131,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "2def24dd86ba8b89",
+  "active": "0fde480cc6b3f16f",
   "lastOpenFiles": [
-    "GroupMe Community Docs/self.md",
     "GroupMe API/Map.md",
+    "GroupMe Community Docs/self.md",
     "Rust For C++ Programmers/control-flow.md",
     "Rust For C++ Programmers/README.md",
     "Rust For C++ Programmers/hello-world.md",
