@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b246540e0dbcd09f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GroupMe API/Abstraction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2def24dd86ba8b89",
             "type": "leaf",
             "state": {
@@ -30,7 +18,7 @@
             }
           },
           {
-            "id": "94fd478499913123",
+            "id": "0fde480cc6b3f16f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,7 +30,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,17 +131,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "94fd478499913123",
+  "active": "0fde480cc6b3f16f",
   "lastOpenFiles": [
-    "GroupMe Community Docs/readme.md",
-    "GroupMe Community Docs/self.md",
     "GroupMe API/Map.md",
-    "GroupMe API/Abstraction.md",
+    "GroupMe Community Docs/self.md",
     "Rust For C++ Programmers/control-flow.md",
     "Rust For C++ Programmers/README.md",
     "Rust For C++ Programmers/hello-world.md",
+    "GroupMe API/Abstraction.md",
     "SudoCraft/Sudocraft Save Data Format.md",
     "SudoCraft/Save Input, Output, and Parsing.md",
-    "conflict-files-obsidian-git.md"
+    "conflict-files-obsidian-git.md",
+    "Untitled.md"
   ]
 }
