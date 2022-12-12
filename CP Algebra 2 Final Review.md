@@ -7,9 +7,9 @@
 7. a
 8. b
 9. c
-10. **
-11. **
-12. **
+10. *d*    k = y/x
+11. *a*    k=4
+12. *a*    Tricks you up, just graphing. Simple.
 13. d
 14. c
 15. **
