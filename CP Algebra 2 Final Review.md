@@ -15,7 +15,7 @@
 15. *c*   Remember slope formula, and point slope form.
 16. *c*   If you flip anything there has to be a - sign
 17. b  !-> Remember that a stretch is just multiplication
-18. d  !-> You will get bored. Remember parabolas, vertex (h,k) Inside will be oposite.
+18. d  !-> You will get bored. Remember parabolas, vertex (h,k) Inside will be opposite.
 19. *c*  > means shading above, < means below
 20. Remove
-21. 
+21. a
