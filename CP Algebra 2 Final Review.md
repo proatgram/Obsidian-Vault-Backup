@@ -16,9 +16,12 @@
 16. *c*   If you flip anything there has to be a - sign
 17. b  !-> Remember that a stretch is just multiplication
 18. d  !-> You will get bored. Remember parabolas, vertex (h,k) Inside will be opposite.
-19. *c*  > means shading above, < means below
+19. *c*  !-> > means shading above, < means below
 20. Remove
 21. a
 22. d
 23. a
-24. 
+24. a
+25. c
+26. c
+27. *b*    axis of symmetry = -b/2a
