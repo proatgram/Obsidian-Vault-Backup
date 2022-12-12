@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "03b06570f880dfb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CP Algebra 2 Final Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GroupMe Community Docs/self.md",
+                "file": "CP Algebra 2 Final Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,10 +143,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "0fde480cc6b3f16f",
+  "active": "03b06570f880dfb4",
   "lastOpenFiles": [
-    "GroupMe API/Map.md",
     "GroupMe Community Docs/self.md",
+    "GroupMe API/Map.md",
     "Rust For C++ Programmers/control-flow.md",
     "Rust For C++ Programmers/README.md",
     "Rust For C++ Programmers/hello-world.md",
@@ -142,6 +154,6 @@
     "SudoCraft/Sudocraft Save Data Format.md",
     "SudoCraft/Save Input, Output, and Parsing.md",
     "conflict-files-obsidian-git.md",
-    "Untitled.md"
+    "CP Algebra 2 Final Review.md"
   ]
 }
