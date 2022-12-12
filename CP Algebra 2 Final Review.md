@@ -12,4 +12,5 @@
 12. *a*    Tricks you up, just graphing. Simple.
 13. d
 14. c
-15. **
+15. *c*   Remember slope formula, and point slope form.
+16. **
