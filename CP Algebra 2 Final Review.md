@@ -19,3 +19,6 @@
 19. *c*  > means shading above, < means below
 20. Remove
 21. a
+22. d
+23. a
+24. 
