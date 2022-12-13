@@ -49,4 +49,6 @@
 49. *d*  Synthetic division!!!
 50. c
 51. *b* If it has a remainder, it is a factor
-52. c Just input into question, don't d
+52. c Just input into question, don't divide
+53. *b* if 2+sqrt(7) is a root, then 2-sqrt(7) is a root
+54. b
