@@ -46,4 +46,7 @@
 46. *c*   Multiplicities are just if the answers are repeated
 47. Removed
 48. Removed
-49. 
+49. *d*  Synthetic division!!!
+50. c
+51. *b* If it has a remainder, it is a factor
+52. c Just input into question, don't d
