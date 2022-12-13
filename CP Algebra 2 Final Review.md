@@ -17,7 +17,7 @@
 17. b  !-> Remember that a stretch is just multiplication
 18. d  !-> You will get bored. Remember parabolas, vertex (h,k) Inside will be opposite.
 19. *c*  !-> > means shading above, < means below
-20. Remove
+20. Removed
 21. a
 22. d
 23. a
@@ -30,4 +30,7 @@
 30. *c*    Difference of perfect squares
 31. c
 32. a  !-> Quadratic formula!!
-33. 
+33. c
+34. c !-> All over four!
+35. d
+36. 
