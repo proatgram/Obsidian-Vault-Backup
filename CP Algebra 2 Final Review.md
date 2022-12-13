@@ -35,4 +35,10 @@
 35. d
 36. *a* c in quadratic standard or ax^2+bx+c <- is the Y intercept
 37. c
-38. 
+38. *b*   _b^2-4ac>0 = 2 real b^2-4ac=0 1 real b^2-4ac<0 = no real_
+39. c same as above
+40. c
+41. a
+42. b
+43. Removed
+44. 
