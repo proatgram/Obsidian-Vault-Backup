@@ -33,4 +33,6 @@
 33. c
 34. c !-> All over four!
 35. d
-36. 
+36. *a* c in quadratic standard or ax^2+bx+c <- is the Y intercept
+37. c
+38. 
