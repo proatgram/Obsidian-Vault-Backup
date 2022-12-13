@@ -25,3 +25,5 @@
 25. c
 26. c
 27. *b*    axis of symmetry = -b/2a
+28. b
+29. 
