@@ -41,4 +41,9 @@
 41. a
 42. b
 43. Removed
-44. 
+44. b
+45. Removed
+46. *c*   Multiplicities are just if the answers are repeated
+47. Removed
+48. Removed
+49. 
