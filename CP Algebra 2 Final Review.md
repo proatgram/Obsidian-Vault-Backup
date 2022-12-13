@@ -27,4 +27,7 @@
 27. *b*    axis of symmetry = -b/2a
 28. b
 29. d
-30. **   Difference of perfect squares
+30. *c*    Difference of perfect squares
+31. c
+32. a  !-> Quadratic formula!!
+33. 
