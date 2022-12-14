@@ -52,4 +52,7 @@
 52. c Just input into question, don't divide
 53. *b* if 2+sqrt(7) is a root, then 2-sqrt(7) is a root
 54. b
-55. 
+55. a
+56. d
+57. c
+58. 
