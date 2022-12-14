@@ -59,5 +59,11 @@
 59. b
 60. 
 61. a
-62.  *c* Raise both sides to reciprocal
-63. 
+62.  *c*  Raise both sides to reciprocal
+63. b
+64. b
+65. d
+66. a
+67. Growth
+68. Removed
+69. 
