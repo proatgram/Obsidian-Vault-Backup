@@ -68,4 +68,8 @@
 68. Removed
 69. b Left^Right=Middle
 70. b
-71. 
+71. b
+72. c
+73. a
+74. d
+75. 
