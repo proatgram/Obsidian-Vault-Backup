@@ -58,3 +58,6 @@
 58. a
 59. b
 60. 
+61. a
+62.  *c* Raise both sides to reciprocal
+63. 
