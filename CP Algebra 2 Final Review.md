@@ -31,9 +31,9 @@
 31. c
 32. a  !-> Quadratic formula!!
 33. c
-34. c !-> All over four!
+34. c  !-> All over four!
 35. d
-36. *a* c in quadratic standard or ax^2+bx+c <- is the Y intercept
+36. *a* c in quadratic standard or ax^2+bx+c <- is the Y intercept (also bottoms up method to factor)
 37. c
 38. *b*   _b^2-4ac>0 = 2 real b^2-4ac=0 1 real b^2-4ac<0 = no real_
 39. c same as above
