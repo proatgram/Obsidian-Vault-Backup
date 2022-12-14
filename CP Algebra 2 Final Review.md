@@ -56,8 +56,8 @@
 56. d
 57. c
 58. a
-59. b
-60. 
+59. a
+60. b
 61. a
 62.  *c*  Raise both sides to reciprocal
 63. b
@@ -66,4 +66,6 @@
 66. a
 67. Growth
 68. Removed
-69. 
+69. b Left^Right=Middle
+70. b
+71. 
