@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b246540e0dbcd09f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GroupMe API/Abstraction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2def24dd86ba8b89",
             "type": "leaf",
             "state": {
@@ -18,19 +30,7 @@
             }
           },
           {
-            "id": "0fde480cc6b3f16f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GroupMe Community Docs/self.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03b06570f880dfb4",
+            "id": "94fd478499913123",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -143,17 +143,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "03b06570f880dfb4",
+  "active": "94fd478499913123",
   "lastOpenFiles": [
     "GroupMe Community Docs/self.md",
+    "GroupMe Community Docs/readme.md",
     "GroupMe API/Map.md",
+    "GroupMe API/Abstraction.md",
     "Rust For C++ Programmers/control-flow.md",
     "Rust For C++ Programmers/README.md",
     "Rust For C++ Programmers/hello-world.md",
-    "GroupMe API/Abstraction.md",
     "SudoCraft/Sudocraft Save Data Format.md",
     "SudoCraft/Save Input, Output, and Parsing.md",
-    "conflict-files-obsidian-git.md",
-    "CP Algebra 2 Final Review.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
