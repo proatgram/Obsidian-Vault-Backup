@@ -24,7 +24,7 @@
 24. a
 25. c
 26. c
-27. *b*    axis of symmetry = -b/2a
+27. *b*    axis of symmetry = -b/2a You can substitute axis of symmetry (x) into equation to get y to get (h,k) the vertex
 28. b
 29. d
 30. *c*    Difference of perfect squares
