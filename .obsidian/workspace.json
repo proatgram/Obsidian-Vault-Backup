@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GroupMe API/Map.md",
+                "file": "CP Algebra 2 Final Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,10 +142,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "2def24dd86ba8b89",
+  "active": "94fd478499913123",
   "lastOpenFiles": [
-    "CP Algebra 2 Final Review.md",
     "GroupMe API/Map.md",
+    "CP Algebra 2 Final Review.md",
     "GroupMe API/Abstraction.md",
     "GroupMe Community Docs/self.md",
     "GroupMe Community Docs/readme.md",
