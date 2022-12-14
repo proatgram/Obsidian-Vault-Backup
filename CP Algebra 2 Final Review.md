@@ -8,7 +8,7 @@
 8. b
 9. c
 10. *d*    k = y/x
-11. *a*    k=4
+11. *a*    k=4, y=4x
 12. *a*    Tricks you up, just graphing. Simple.
 13. d
 14. c
