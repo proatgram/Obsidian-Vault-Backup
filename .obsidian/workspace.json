@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GroupMe Community Docs/messages.md",
+                "file": "GroupMe API/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,8 +140,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "55825d8326d823aa",
+  "active": "af6cf1d0ae739275",
   "lastOpenFiles": [
+    "GroupMe Community Docs/messages.md",
     "GroupMe API/Map.md",
     "GroupMe API/Abstraction.md",
     "CP Algebra 2 Final Review.md",
@@ -151,7 +151,6 @@
     "Rust For C++ Programmers/control-flow.md",
     "Rust For C++ Programmers/README.md",
     "Rust For C++ Programmers/hello-world.md",
-    "SudoCraft/Sudocraft Save Data Format.md",
-    "SudoCraft/Save Input, Output, and Parsing.md"
+    "SudoCraft/Sudocraft Save Data Format.md"
   ]
 }
