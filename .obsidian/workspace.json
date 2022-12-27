@@ -16,8 +16,21 @@
                 "file": "GroupMe API/Map.md"
               }
             }
+          },
+          {
+            "id": "55825d8326d823aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GroupMe Community Docs/messages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GroupMe API/Map.md",
+                "file": "GroupMe Community Docs/messages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,10 +141,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "af6cf1d0ae739275",
+  "active": "55825d8326d823aa",
   "lastOpenFiles": [
-    "GroupMe API/Abstraction.md",
     "GroupMe API/Map.md",
+    "GroupMe API/Abstraction.md",
     "CP Algebra 2 Final Review.md",
     "GroupMe Community Docs/self.md",
     "GroupMe Community Docs/readme.md",
