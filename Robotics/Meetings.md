@@ -1,1 +1,3 @@
--
+- Every Monday & Thursday
+- If we need more we need another teacher/mentor
+- No later than 6:00pm
