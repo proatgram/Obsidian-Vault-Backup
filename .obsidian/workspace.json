@@ -30,18 +30,6 @@
             }
           },
           {
-            "id": "bfe4310daa1c95a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Robotics/General?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c038f83a34e7fb5c",
             "type": "leaf",
             "state": {
@@ -66,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics/General?.md",
+                "file": "GroupMe API/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,11 +165,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c038f83a34e7fb5c",
+  "active": "2def24dd86ba8b89",
   "lastOpenFiles": [
+    "Robotics/General?.md",
     "Robotics/Identify Functions.md",
     "Robotics/Strategy?.md",
-    "Robotics/General?.md",
     "conflict-files-obsidian-git.md",
     "GroupMe API/Map.md",
     "CP Algebra 2 Final Review.md",
