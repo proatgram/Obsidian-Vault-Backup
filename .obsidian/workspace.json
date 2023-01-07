@@ -11,18 +11,6 @@
             "id": "b246540e0dbcd09f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GroupMe API/Abstraction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2def24dd86ba8b89",
-            "type": "leaf",
-            "state": {
               "type": "mindmapview",
               "state": {
                 "file": "GroupMe API/Map.md"
@@ -53,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,15 +152,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2def24dd86ba8b89",
+  "active": "6e31e5d815aedefa",
   "lastOpenFiles": [
+    "GroupMe API/Abstraction.md",
+    "GroupMe API/Map.md",
     "Robotics/General?.md",
     "Robotics/Identify Functions.md",
     "Robotics/Strategy?.md",
     "conflict-files-obsidian-git.md",
-    "GroupMe API/Map.md",
     "CP Algebra 2 Final Review.md",
-    "GroupMe API/Abstraction.md",
     "GroupMe Community Docs/self.md",
     "GroupMe Community Docs/readme.md",
     "Rust For C++ Programmers/control-flow.md"
