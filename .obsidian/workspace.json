@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics/Meetings.md",
+                "file": "Robotics/General?.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics/Meetings.md",
+                "file": "Robotics/General?.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics/Meetings.md",
+                "file": "Robotics/General?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
   "lastOpenFiles": [
     "Robotics/Identify Functions.md",
     "Robotics/Strategy?.md",
-    "Robotics/Meetings.md",
+    "Robotics/General?.md",
     "conflict-files-obsidian-git.md",
     "GroupMe API/Map.md",
     "CP Algebra 2 Final Review.md",
