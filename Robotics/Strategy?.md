@@ -1,1 +1,1 @@
-From first to third rung is 3ft
+From first to third rung is 3'4''

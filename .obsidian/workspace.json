@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94fd478499913123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CP Algebra 2 Final Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b246540e0dbcd09f",
             "type": "leaf",
             "state": {
@@ -39,14 +27,6 @@
               "state": {
                 "file": "GroupMe API/Map.md"
               }
-            }
-          },
-          {
-            "id": "cbf1f4e820eb55fb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -86,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics/Strategy?.md",
+                "file": "Robotics/Identify Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,17 +177,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fb276b9dcec424a6",
+  "active": "c038f83a34e7fb5c",
   "lastOpenFiles": [
-    "Robotics/Identify Functions.md",
+    "Robotics/Strategy?.md",
     "Robotics/Meetings.md",
+    "Robotics/Identify Functions.md",
     "conflict-files-obsidian-git.md",
     "GroupMe API/Map.md",
     "CP Algebra 2 Final Review.md",
     "GroupMe API/Abstraction.md",
     "GroupMe Community Docs/self.md",
     "GroupMe Community Docs/readme.md",
-    "Rust For C++ Programmers/control-flow.md",
-    "Rust For C++ Programmers/README.md"
+    "Rust For C++ Programmers/control-flow.md"
   ]
 }
