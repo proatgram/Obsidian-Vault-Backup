@@ -40,9 +40,29 @@
                 "file": "GroupMe API/Map.md"
               }
             }
+          },
+          {
+            "id": "cbf1f4e820eb55fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9d65cb3e5bbd139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -100,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GroupMe API/Map.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,17 +173,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2def24dd86ba8b89",
+  "active": "a9d65cb3e5bbd139",
   "lastOpenFiles": [
-    "CP Algebra 2 Final Review.md",
+    "conflict-files-obsidian-git.md",
     "GroupMe API/Map.md",
+    "CP Algebra 2 Final Review.md",
     "GroupMe API/Abstraction.md",
     "GroupMe Community Docs/self.md",
     "GroupMe Community Docs/readme.md",
     "Rust For C++ Programmers/control-flow.md",
     "Rust For C++ Programmers/README.md",
     "Rust For C++ Programmers/hello-world.md",
-    "SudoCraft/Sudocraft Save Data Format.md",
-    "SudoCraft/Save Input, Output, and Parsing.md"
+    "SudoCraft/Sudocraft Save Data Format.md"
   ]
 }
