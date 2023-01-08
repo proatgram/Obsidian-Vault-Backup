@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "6aa16285ba0a08dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "55825d8326d823aa",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GroupMe API/Map.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "83b20ed1e272e4e3",
+  "active": "6aa16285ba0a08dd",
   "lastOpenFiles": [
     "GroupMe Community Docs/messages.md",
     "GroupMe API/Map.md",
