@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "83b20ed1e272e4e3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          },
+          {
             "id": "55825d8326d823aa",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +151,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "af6cf1d0ae739275",
+  "active": "83b20ed1e272e4e3",
   "lastOpenFiles": [
     "GroupMe Community Docs/messages.md",
     "GroupMe API/Map.md",
