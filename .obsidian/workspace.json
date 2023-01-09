@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GroupMe Community Docs/messages.md",
+                "file": "GroupMe API/Abstraction.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,10 +143,10 @@
   },
   "active": "531be95c897cb6fc",
   "lastOpenFiles": [
-    "CP Algebra 2 Final Review.md",
-    "GroupMe API/Map.md",
     "GroupMe API/Abstraction.md",
     "GroupMe Community Docs/messages.md",
+    "GroupMe API/Map.md",
+    "CP Algebra 2 Final Review.md",
     "conflict-files-obsidian-git.md",
     "GroupMe Community Docs/self.md",
     "GroupMe Community Docs/readme.md",
