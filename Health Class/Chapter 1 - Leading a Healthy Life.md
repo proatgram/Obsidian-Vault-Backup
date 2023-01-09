@@ -11,3 +11,9 @@
 - Stress
 - Eating habits
 - Physical Activity
+
+## Controllable Factors for Heart Disease
+- Physical Activity
+- Smoking
+- Weight
+- Diet
