@@ -8,38 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af6cf1d0ae739275",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "GroupMe API/Map.md"
-              }
-            }
-          },
-          {
-            "id": "83b20ed1e272e4e3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          },
-          {
-            "id": "6aa16285ba0a08dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "55825d8326d823aa",
             "type": "leaf",
             "state": {
@@ -50,9 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "531be95c897cb6fc",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapview",
+              "state": {
+                "file": "GroupMe API/Map.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "GroupMe API/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,17 +141,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6aa16285ba0a08dd",
+  "active": "531be95c897cb6fc",
   "lastOpenFiles": [
+    "GroupMe API/Abstraction.md",
     "GroupMe Community Docs/messages.md",
     "GroupMe API/Map.md",
-    "GroupMe API/Abstraction.md",
+    "conflict-files-obsidian-git.md",
     "CP Algebra 2 Final Review.md",
     "GroupMe Community Docs/self.md",
     "GroupMe Community Docs/readme.md",
     "Rust For C++ Programmers/control-flow.md",
     "Rust For C++ Programmers/README.md",
-    "Rust For C++ Programmers/hello-world.md",
-    "SudoCraft/Sudocraft Save Data Format.md"
+    "Rust For C++ Programmers/hello-world.md"
   ]
 }
