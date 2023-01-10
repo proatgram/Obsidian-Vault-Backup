@@ -4,4 +4,6 @@
 - Called the "father of African literature"
 - Moved to US
 # What was important to Achebe
-- 
+- African culture under Europe (British) colonization
+- He critiqued and British governments that controlled the Ibo people
+- Oral traditions such as folk tales and songs
