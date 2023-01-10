@@ -40,21 +40,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "382bff9776347f6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Chinua Achebe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Chinualumogu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Chinua Achebe.md",
+                "file": "Health Class/Chapter 1 - Leading a Healthy Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,8 +154,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5cf305196f0338d7",
+  "active": "c5412e7bc6dbf014",
   "lastOpenFiles": [
+    "English/Chinua Achebe.md",
     "GroupMe API/Abstraction.md",
     "GroupMe API/Map.md",
     "GroupMe Community Docs/messages.md",
@@ -176,7 +165,6 @@
     "GroupMe Community Docs/self.md",
     "GroupMe Community Docs/readme.md",
     "Rust For C++ Programmers/control-flow.md",
-    "Rust For C++ Programmers/README.md",
-    "Rust For C++ Programmers/hello-world.md"
+    "Rust For C++ Programmers/README.md"
   ]
 }
