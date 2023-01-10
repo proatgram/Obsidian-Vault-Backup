@@ -25,4 +25,5 @@
 - Sedentary Lifestyle
 - Alcohol and other drug use
 - Sexual Activity
-- 
+- Tobacco Use
+- Poor Eating Habits
