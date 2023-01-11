@@ -9,14 +9,13 @@
 - Uncontrollable Risk Factors: are risk factors that can’t be changed. (Ex. Age, race, gender, heredity)
 - Sedentary: not taking part in physical activity on a regular basis.
 - Health: the state of well-being in which all of the components of health-physical, emotional, social, mental, spiritual, and environmental-are in balance.
-- Factors that contribute to a person’s health include have good relationships with friends, significant others and family members, having healthy self-esteem and living in a healthy
-environment.
-Value: a strong belief or ideal.
-Wellness: the achievement of a person’s best in all six components of health.
-Health Literacy: knowledge of health information needed to make good choices about your health.
-Public Health: the practice of protecting and improving the health of people in a community
-Advocate: to speak or argue in favor of something.
-Public Service Announcement (PSA): a message created to educate people about an issue.
+- Factors that contribute to a person’s health include have good relationships with friends, significant others and family members, having healthy self-esteem and living in a healthy environment.
+- Value: a strong belief or ideal.
+- Wellness: the achievement of a person’s best in all six components of health.
+- Health Literacy: knowledge of health information needed to make good choices about your health.
+- Public Health: the practice of protecting and improving the health of people in a community
+- Advocate: to speak or argue in favor of something.
+- Public Service Announcement (PSA): a message created to educate people about an issue.
 
 ## Bell Ringer
 - Don't sleep
@@ -45,3 +44,10 @@ Public Service Announcement (PSA): a message created to educate people about an 
 # Section 2 | Health and Wellness
 ---
 
+## 6 Components of Health
+- Physical Health
+- Mental Health
+- Spiritual Health
+- Social Health
+- Environmental Health
+- Emotional Health
