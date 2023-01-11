@@ -80,8 +80,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,7 +153,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c5412e7bc6dbf014",
+  "active": "6e31e5d815aedefa",
   "lastOpenFiles": [
     "English/Chinua Achebe.md",
     "GroupMe API/Abstraction.md",

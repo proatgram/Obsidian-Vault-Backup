@@ -51,3 +51,8 @@
 - Social Health
 - Environmental Health
 - Emotional Health
+## Influences on Your Wellness
+- Hereditary Influences - The traits you inherit from your parents
+- Social Influences - The influence by the relations you have with other people
+- Cultural Influences - Culture -> is the values, beliefs, and practices shared by people that have a common background
+- Environmental Influences - The area where you live, and all the things you have contact with are part of your environment
