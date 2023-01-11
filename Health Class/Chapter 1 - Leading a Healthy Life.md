@@ -57,5 +57,8 @@
 - Cultural Influences - Culture -> is the values, beliefs, and practices shared by people that have a common background
 - Environmental Influences - The area where you live, and all the things you have contact with are part of your environment
 # Section 3 | Health in Your Community
+---
 
-## Four Ways Society 
+## Four Ways Society Addresses Health Problems
+- Medical Advances
+- Technology
