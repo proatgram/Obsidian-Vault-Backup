@@ -47,7 +47,7 @@
 ## 6 Components of Health
 - Physical Health
 - Mental Health
-- Spiritual Health
+- Spiritual Health - Purpose. Morals, values.
 - Social Health
 - Environmental Health
 - Emotional Health
