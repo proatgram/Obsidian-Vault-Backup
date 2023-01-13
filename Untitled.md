@@ -1,0 +1,1 @@
+So I have come up with a little assignment / project thing for you all to try to make to get a hang of the language, I might do more 
