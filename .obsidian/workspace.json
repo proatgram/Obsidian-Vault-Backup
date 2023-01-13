@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Health Class/Chapter 1 - Leading a Healthy Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,8 +143,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6e31e5d815aedefa",
+  "active": "531be95c897cb6fc",
   "lastOpenFiles": [
+    "Untitled.md",
     "Health Class/Chapter 1 - Leading a Healthy Life.md",
     "GroupMe API/Map.md",
     "GroupMe API/Abstraction.md",
@@ -152,7 +154,6 @@
     "conflict-files-obsidian-git.md",
     "GroupMe Community Docs/self.md",
     "GroupMe Community Docs/readme.md",
-    "Rust For C++ Programmers/control-flow.md",
-    "Rust For C++ Programmers/README.md"
+    "Rust For C++ Programmers/control-flow.md"
   ]
 }
