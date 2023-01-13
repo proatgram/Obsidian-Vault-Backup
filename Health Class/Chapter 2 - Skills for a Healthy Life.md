@@ -5,4 +5,7 @@
 - Assessing Your Health | Help you evaluate your health and how your actions and behaviors affect your health
 - Communicating Effectively | Teach you good communication skills, like how to listen and speak effectively
 - Practicing Wellness | Show you how to practice healthy behaviors
-- Coping | 
+- Coping | Dealing with troubles or problems in an effective way
+- Being a Wise Consumer | A person who buys products or services
+- Evaluating Media Messages | Have a significant influence on what you learn about the world
+- Using Community Resources | A resource is something you can use to help achieve a goal
