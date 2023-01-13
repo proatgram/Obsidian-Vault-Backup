@@ -1,1 +1,1 @@
-So I have come up with a little assignment / project thing for you all to try to make to get a hang of the language, I might do more 
+So I have come up with a little assignment / project thing for you all to try to make to get a hang of the language. The assignment is....... To make a function that takes in three integers (`int`) and to return the three numbers passed into the function together, and then return the result as an `int`. Feel free to ask questions in this room or to DM me with questions. Though 
