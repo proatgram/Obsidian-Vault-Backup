@@ -9,3 +9,6 @@
 - Being a Wise Consumer | A person who buys products or services
 - Evaluating Media Messages | Have a significant influence on what you learn about the world
 - Using Community Resources | A resource is something you can use to help achieve a goal
+
+## Section 2 | making GREAT Decisions
+### The purpose of this section is to learn st

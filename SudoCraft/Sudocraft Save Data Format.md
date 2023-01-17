@@ -2,7 +2,7 @@
 ```toc
 ```
 
-## Overal Format
+## Overall Format
 There should be a main file that redirects to other files for other save data.
 
 The way the file structure is organized is to achive the most orginization possible, and only have files be big if they need to be. So, there should be a bunch of small files pointing to a bunch of bigger files that contain the actual data.
