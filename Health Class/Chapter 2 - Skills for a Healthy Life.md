@@ -11,4 +11,10 @@
 - Using Community Resources | A resource is something you can use to help achieve a goal
 
 ## Section 2 | making GREAT Decisions
-### The purpose of this section is to learn st
+#### The purpose of this section is to learn strategies for making healthy decisions.
+
+- Give | Hand over
+- Review | Look over
+- Evaluate | Think
+- Assess | Think over
+- Think | Ponder
