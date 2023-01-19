@@ -37,4 +37,9 @@
 	- TV
 	- Radio
 	- Role Models
-- 
+- Refusal Skill | A strategy to avoid something you don't want to do.
+	- Leave
+	- Keep saying no
+	- Change the subject
+	- Ignore
+	- Excuse
