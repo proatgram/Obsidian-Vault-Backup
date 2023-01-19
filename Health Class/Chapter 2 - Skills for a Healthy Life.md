@@ -27,4 +27,7 @@
 ## Section 3 | Resisting Pressure from Others
 
 - Positive Influence | Improve or better your life
-- Negative Influence | 
+- Negative Influence | Something that doesn't improve your life, that harms
+---
+- Direct Pressure | The pressure that results from someone who tries to convince you to do something you normally wouldn't do.
+- Indirect Pressure: The 
