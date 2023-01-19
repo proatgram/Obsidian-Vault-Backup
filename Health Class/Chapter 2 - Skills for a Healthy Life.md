@@ -13,8 +13,8 @@
 ## Section 2 | making GREAT Decisions
 #### The purpose of this section is to learn strategies for making healthy decisions.
 
-- Give | Hand over
-- Review | Look over
-- Evaluate | Think
-- Assess | Think over
-- Think | Ponder
+- Give though to the problem| Hand over
+- Review your choices| Look over
+- Evaluate the consequences| Think
+- Assess and choose the best choice | Think over
+- Think it over afterword | Ponder
