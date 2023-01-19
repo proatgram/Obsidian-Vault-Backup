@@ -19,9 +19,9 @@
 - Assess and choose the best choice | Think over
 - Think it over afterword | Ponder
 
-## Section 3 | Everyone makes mistakes
-
 - **Stop, Think, and Go**
 	- *Stop*: Stop and admit you made a poor decision.
 	- *Think*: Think about to whom you can talk about the problem
 	- *Go*: Go and do your best to correct the situation
+
+## Section 3 | Resisting Pressure from Others
