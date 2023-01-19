@@ -43,3 +43,4 @@
 	- Change the subject
 	- Ignore
 	- Excuse
+## Section 4: Setting Healthy Goals
