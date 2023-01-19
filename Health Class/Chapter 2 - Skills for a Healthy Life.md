@@ -44,3 +44,7 @@
 	- Ignore
 	- Excuse
 ## Section 4: Setting Healthy Goals
+
+## Goals are directions for your life
+- Short term goal | Goals that can be achieved quickly
+- Long term goals | May take months or years to achieve
