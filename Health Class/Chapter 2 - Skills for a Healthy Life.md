@@ -30,4 +30,11 @@
 - Negative Influence | Something that doesn't improve your life, that harms
 ---
 - Direct Pressure | The pressure that results from someone who tries to convince you to do something you normally wouldn't do.
-- Indirect Pressure: The 
+	- Teasing
+	- Persuasion
+	- Threat
+- Indirect Pressure: The pressure that results from being swayed to do something because people you look up to are doing it. When you are pressured indirectly, you are not directly told or asked to do something.
+	- TV
+	- Radio
+	- Role Models
+- 
