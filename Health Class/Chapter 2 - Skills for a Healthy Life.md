@@ -48,3 +48,11 @@
 ## Goals are directions for your life
 - Short term goal | Goals that can be achieved quickly
 - Long term goals | May take months or years to achieve
+## Six suggestions for setting goals
+- Safe | The first thing to ask yourself is if this goal can harm you
+- Satisfying | You should feel good about yourself when you reach your goals
+- Sensible | It's important that your goals, especially your short-term goals, be sensible or realistic. Make sure your goals are achievable
+- Similar | The goal you set for yourself should be similar to goals you have set in the past. This means your new goals should not contradict your earlier ones
+- Specific | The steps to achieve those goals are very clear. good goals are specific
+- Supported | Ask yourself when setting a goal, whether your parents or other responsible adults would support this goal.
+##
