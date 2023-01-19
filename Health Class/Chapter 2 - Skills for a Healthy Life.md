@@ -25,3 +25,6 @@
 	- *Go*: Go and do your best to correct the situation
 
 ## Section 3 | Resisting Pressure from Others
+
+- Positive Influence | Improve or better your life
+- Negative Influence | 
