@@ -55,4 +55,8 @@
 - Similar | The goal you set for yourself should be similar to goals you have set in the past. This means your new goals should not contradict your earlier ones
 - Specific | The steps to achieve those goals are very clear. good goals are specific
 - Supported | Ask yourself when setting a goal, whether your parents or other responsible adults would support this goal.
-##
+## Make an action plan
+- Action Plan: A set of directions that will help you reach your goal
+- Rewards
+- Influences
+- Tracking your progress
