@@ -29,3 +29,6 @@
 
 ## Muscular Strength
 - Muscular Strength is the amount of force that a muscle can apply in a given contradiction.
+
+# Muscular Endurance
+- Muscular Endurance is the ability of the muscles to keep working (contradict_)
