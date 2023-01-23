@@ -37,3 +37,5 @@
 - Cardiorespitory Endurance is the ability of your heart, blood vessels, lungs, and blood to deliver oxygen and nutrients to all of your body's cells while you are being physically active.
 - Walking, Jogging, Dancing, Swimming, Cycling, and Jump Roping
 
+## Flexibility
+- Flexibility is the ability of the joints to move through their full range of motion
