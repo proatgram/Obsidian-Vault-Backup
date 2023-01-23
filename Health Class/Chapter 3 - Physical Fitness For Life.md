@@ -30,5 +30,10 @@
 ## Muscular Strength
 - Muscular Strength is the amount of force that a muscle can apply in a given contradiction.
 
-# Muscular Endurance
-- Muscular Endurance is the ability of the muscles to keep working (contradict_)
+## Muscular Endurance
+- Muscular Endurance is the ability of the muscles to keep working (contradict) over a period of time
+
+## Cardiorespitory Endurance
+- Cardiorespitory Endurance is the ability of your heart, blood vessels, lungs, and blood to deliver oxygen and nutrients to all of your body's cells while you are being physically active.
+- Walking, Jogging, Dancing, Swimming, Cycling, and Jump Roping
+
