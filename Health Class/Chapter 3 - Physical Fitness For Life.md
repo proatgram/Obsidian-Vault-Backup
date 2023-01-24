@@ -39,3 +39,4 @@
 
 ## Flexibility
 - Flexibility is the ability of the joints to move through their full range of motion
+
