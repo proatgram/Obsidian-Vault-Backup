@@ -40,3 +40,14 @@
 ## Flexibility
 - Flexibility is the ability of the joints to move through their full range of motion
 
+## Body Composition
+- Body Composition refers to the ratio of lean body tissue (muscle and bone) to body-fat tissue.
+
+## Skills Developed By Fitness
+- Coordination
+- Balance
+- Agility
+- Power
+- Speed
+- Reaction Time
+
