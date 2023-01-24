@@ -51,3 +51,6 @@
 - Speed
 - Reaction Time
 
+## Sport and Competition
+
+- Participating in competition helps develop motivation, leadership, and cooperation skills.
