@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Health Class/Chapter 2 - Skills for a Healthy Life.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1bf45e7981e567c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Health Class/Chapter 3 - Physical Fitness For Life.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,17 +143,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a1bf45e7981e567c",
+  "active": "6e31e5d815aedefa",
   "lastOpenFiles": [
     "Health Class/Chapter 2 - Skills for a Healthy Life.md",
-    "Health Class/Chapter 3 - Physical Fitness For Life.md",
     "Health Class/Chapter 1 - Leading a Healthy Life.md",
-    "GroupMe Community Docs/readme.md",
-    "SudoCraft/Sudocraft Save Data Format.md",
+    "Untitled.md",
     "GroupMe API/Map.md",
     "GroupMe API/Abstraction.md",
     "GroupMe Community Docs/messages.md",
     "CP Algebra 2 Final Review.md",
-    "conflict-files-obsidian-git.md"
+    "conflict-files-obsidian-git.md",
+    "GroupMe Community Docs/self.md",
+    "GroupMe Community Docs/readme.md"
   ]
 }
