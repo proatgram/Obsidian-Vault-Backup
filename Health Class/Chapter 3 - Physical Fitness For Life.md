@@ -79,3 +79,6 @@
 ### Stretch
 - Stretching regularly and properly will help avoid tight muscles and injuries
 - Hold the stretches for up to 30 seconds to increase flexibility
+
+## Avoid overtraining
+- Overtraining is caused by exceeding the recommendations of the FITT formula
