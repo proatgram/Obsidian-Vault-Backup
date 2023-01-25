@@ -70,4 +70,7 @@
 
 # Section 3 | Exercising the safe way
 
-## 
+## Avoiding sports injuries
+- Many sports injuries can be prevented
+
+## Warm up and Cool Do
