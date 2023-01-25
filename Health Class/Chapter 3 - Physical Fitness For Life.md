@@ -73,4 +73,9 @@
 ## Avoiding sports injuries
 - Many sports injuries can be prevented
 
-## Warm up and Cool Do
+## Warm up and Cool down
+- Warming up increases blood flow to muscles, stretches your muscles and ligaments, and increases your heart rate, Cooling down will help prevent next day stiffness and may prevent injuries.
+
+### Stretch
+- Stretching regularly and properly will help avoid tight muscles and injuries
+- Hold the stretches for up to 30 seconds to increase flexibility
