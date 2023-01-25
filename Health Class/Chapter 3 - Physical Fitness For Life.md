@@ -52,5 +52,8 @@
 - Reaction Time
 
 ## Sport and Competition
-
 - Participating in competition helps develop motivation, leadership, and cooperation skills.
+
+## Fitness and Disability
+- The Special Olympics is an organization that enables and encourages people who are learning disabled to become physically fit
+
