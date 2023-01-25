@@ -61,7 +61,7 @@
 
 ## FITT FORMULA
 - Frequency
-- Intencity
+- Intensity
 - Time
 - Type
 
