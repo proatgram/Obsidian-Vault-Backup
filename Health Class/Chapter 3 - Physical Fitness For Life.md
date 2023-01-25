@@ -65,3 +65,9 @@
 - Time
 - Type
 
+## When will I see change
+ - On average, it takes about 6 weeks to really notice the difference in health-related components.
+
+# Section 3 | Exercising the safe way
+
+## 
