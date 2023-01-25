@@ -82,3 +82,10 @@
 
 ## Avoid overtraining
 - Overtraining is caused by exceeding the recommendations of the FITT formula
+
+## R.I.C.E.
+- Rest
+- Ice
+- Compression
+- Elevation
+
