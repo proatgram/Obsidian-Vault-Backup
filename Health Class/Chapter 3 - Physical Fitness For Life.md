@@ -58,3 +58,10 @@
 - The Special Olympics is an organization that enables and encourages people who are learning disabled to become physically fit
 
 # Section 2 | Planning your fitness program
+
+## FITT FORMULA
+- Frequency
+- Intencity
+- Time
+- Type
+
