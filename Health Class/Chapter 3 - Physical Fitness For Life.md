@@ -81,7 +81,7 @@
 - Hold the stretches for up to 30 seconds to increase flexibility
 
 ## Avoid overtraining
-- Overtraining is caused by exceeding the recommendations of the FITT formula
+- Over-training is caused by exceeding the recommendations of the FITT formula
 
 ## R.I.C.E.
 - Rest
@@ -97,3 +97,7 @@
  - Stress-related problems
  - Increased risk for getting sick
  - Increased risk for dangerous accidents
+
+## Teens and sleep
+
+- Teens need aboout 9:15 minutes 
