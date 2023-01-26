@@ -89,3 +89,11 @@
 - Compression
 - Elevation
 
+# Section 4 | Sleep
+
+## Sleep: Too Little, Too often
+
+ - Sleep is not just a "time out"; it is essential for your health and safety
+ - Stress-related problems
+ - Increased risk for getting sick
+ - Increased risk for dangerous accidents
