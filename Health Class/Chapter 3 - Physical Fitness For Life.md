@@ -111,4 +111,6 @@
 ## The stages of sleep
 - The two types of sleep are called NREM and REM
 - The REM -- (rapid eye movement) portion of the sleep cycle is call dream sleep (what??)
+
+- Beginning of a sleep cycle, NREM -- (nonrapid eye movement) sleep
 - 
