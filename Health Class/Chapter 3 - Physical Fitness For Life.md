@@ -113,4 +113,14 @@
 - The REM -- (rapid eye movement) portion of the sleep cycle is call dream sleep (what??)
 
 - Beginning of a sleep cycle, NREM -- (nonrapid eye movement) sleep
-- 
+
+## How to check the ABC's of Life-Threatening Conditions in an Unresponsive Person
+- Airway
+- Breath
+- Carotid Pulse
+
+## Rescue Breathing
+- Rescue breathing is an emergency technique in which a rescuer gives air to someone who is not breathing.
+
+## CPR
+- Cardiopul
