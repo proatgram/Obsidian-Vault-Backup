@@ -123,4 +123,4 @@
 - Rescue breathing is an emergency technique in which a rescuer gives air to someone who is not breathing.
 
 ## CPR
-- Cardiopul
+- Cardiopulmonary resuscitation (CPR): Is a life-saving technique that combines rescue breathing and chest compression.
