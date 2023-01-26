@@ -92,12 +92,23 @@
 # Section 4 | Sleep
 
 ## Sleep: Too Little, Too often
-
  - Sleep is not just a "time out"; it is essential for your health and safety
  - Stress-related problems
  - Increased risk for getting sick
  - Increased risk for dangerous accidents
 
 ## Teens and sleep
+- Teens need about 9:15 minutes of sleep a night
 
-- Teens need aboout 9:15 minutes 
+## Six tips for getting a good nights sleep
+- Develop a routine
+- Exercise every day
+- Limit caffeine
+- Relax
+- Say no to all-nighters
+- Your bed is for sleep.
+
+## The stages of sleep
+- The two types of sleep are called NREM and REM
+- The REM -- (rapid eye movement) portion of the sleep cycle is call dream sleep (what??)
+- 
