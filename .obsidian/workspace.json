@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "b9bde9459a92caa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Health Class/Chapter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "531be95c897cb6fc",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Health Class/Chapter 3 - Physical Fitness For Life.md",
+                "file": "Health Class/Chapter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,17 +155,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "55825d8326d823aa",
+  "active": "b9bde9459a92caa3",
   "lastOpenFiles": [
+    "Health Class/Chapter 3 - Physical Fitness For Life.md",
     "GroupMe API/Abstraction.md",
     "Health Class/Chapter 2 - Skills for a Healthy Life.md",
     "Health Class/Chapter 1 - Leading a Healthy Life.md",
-    "Untitled.md",
+    "Health Class/Chapter.md",
     "GroupMe API/Map.md",
     "GroupMe Community Docs/messages.md",
     "CP Algebra 2 Final Review.md",
     "conflict-files-obsidian-git.md",
-    "GroupMe Community Docs/self.md",
-    "GroupMe Community Docs/readme.md"
+    "GroupMe Community Docs/self.md"
   ]
 }
