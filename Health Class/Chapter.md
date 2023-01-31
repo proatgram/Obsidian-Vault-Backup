@@ -6,3 +6,12 @@
 ## Why are so many people overweight
 - The first reason is our lack of physical activity
 - The second reason people are gaining so much body fat is our changing diet
+
+# Section 2
+
+## Why do you weight what you weight
+- Whether you gain or lose weight easily is in large part due to heredity. Heredity is the passing down of traits from parent to child.
+
+## Body composition
+
+- Woman have a high percentage of body fat than men do, and body fat percentage increases with age. 
