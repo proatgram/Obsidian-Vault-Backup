@@ -29,3 +29,9 @@
 
 ## Bad diets
 - A bad diet is a diet that requires major changes in your eating habits.
+
+## Surgery
+- One such procedure changes the structure of digestive track by bypassing part of the stomach and sometimes intestine
+- Gastric bypass
+	- Reduces amount of food you can eat
+	- 
