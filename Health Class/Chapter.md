@@ -33,5 +33,5 @@
 ## Surgery
 - One such procedure changes the structure of digestive track by bypassing part of the stomach and sometimes intestine
 - Gastric bypass
-	- Reduces amount of food you can eat
-	- 
+	- Reduces amount of food you can eat, nutrients absorbed, or both
+	- Risky
