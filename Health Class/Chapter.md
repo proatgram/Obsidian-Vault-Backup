@@ -23,3 +23,6 @@
 ## Loose fat, not muscle
 - The goal of weight loss is to lose fat without losing muscle.
 - To lose a pound a week, an average person would need to eat 500 fewer Calories each day or burn 500 more Calories each day
+
+## If you are underweight
+- To gain weight, gradually increase your food intake by having meals and snakes more frequently
