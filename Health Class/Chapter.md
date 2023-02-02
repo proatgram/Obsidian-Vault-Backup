@@ -20,3 +20,6 @@
 - The simplest and healthiest way to decrease the number of calories you eat is to reduce portion sizes and to keep high calorie choices as a treat
 - Keeping a log of your food intake and exercise may help you to make such changes
 
+## Loose fat, not muscle
+- The goal of weight loss is to lose fat without losing muscle.
+- To lose a pound a week, an average person would need to eat 500 fewer Calories each day or burn 500 more Calories each day
