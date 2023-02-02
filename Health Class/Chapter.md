@@ -15,3 +15,6 @@
 ## Body composition
 
 - Woman have a high percentage of body fat than men do, and body fat percentage increases with age. 
+
+## Eat smart, exercise more
+- 
