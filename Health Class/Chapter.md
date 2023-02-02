@@ -17,4 +17,6 @@
 - Woman have a high percentage of body fat than men do, and body fat percentage increases with age. 
 
 ## Eat smart, exercise more
-- 
+- The simplest and healthiest way to decrease the number of calories you eat is to reduce portion sizes and to keep high calorie choices as a treat
+- Keeping a log of your food intake and exercise may help you to make such changes
+
