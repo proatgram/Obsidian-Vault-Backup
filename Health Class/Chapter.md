@@ -26,3 +26,6 @@
 
 ## If you are underweight
 - To gain weight, gradually increase your food intake by having meals and snakes more frequently
+
+## Bad diets
+- A bad diet is a diet that requires major changes in your eating habits.
