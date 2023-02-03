@@ -35,3 +35,14 @@
 - Gastric bypass
 	- Reduces amount of food you can eat, nutrients absorbed, or both
 	- Risky
+
+# Section 3 | Eating Disorders
+
+## What are eating disorders
+- Eating disorders are complex illnesses that can involve having a distorted body image
+
+## Body Image and eating disorders
+- Your body image can change with your mood, your environment, and your experiences
+
+## A healthy body image
+- Developing a healthier body image requires paying attention to, appreciating, and caring for your body.
