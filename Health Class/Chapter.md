@@ -46,3 +46,13 @@
 
 ## A healthy body image
 - Developing a healthier body image requires paying attention to, appreciating, and caring for your body.
+## Common Eating Disorders
+- Anorexia - starvation
+- Bulimia Nervosa - Repeatedly eats large amounts of food and then uses behaviors such as vomiting or laxatives to rid the body of the food
+- Binge eating - Eating of a large amount of food in one sitting
+
+## Dangers of eating disorders
+- Death
+- Hair loss
+- Organ failure
+- Dehydration
