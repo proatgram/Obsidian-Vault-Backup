@@ -65,6 +65,7 @@
 - Eggs
 - Wheat
 
-## Food intolerances
+## Food intolerance
 - Lactose is found in dairy products, such as milk and cheese.
-- 
+
+## Preventing food-brone ill
