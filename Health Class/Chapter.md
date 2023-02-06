@@ -68,4 +68,5 @@
 ## Food intolerance
 - Lactose is found in dairy products, such as milk and cheese.
 
-## Preventing food-brone ill
+## Preventing food-borne illness
+- The majority of food-bore illnesses can be avoided by selecting, storing, cooking, and handling properly
