@@ -56,3 +56,15 @@
 - Hair loss
 - Organ failure
 - Dehydration
+## Stuff
+- Heartburn caused by acid leaking into esophagus
+
+## Food allergies
+- Peanuts
+- Milk
+- Eggs
+- Wheat
+
+## Food intolerances
+- Lactose is found in dairy products, such as milk and cheese.
+- 
