@@ -70,3 +70,4 @@
 
 ## Preventing food-borne illness
 - The majority of food-bore illnesses can be avoided by selecting, storing, cooking, and handling properly
+
