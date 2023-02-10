@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Health Class/Chapter 12 - Illegal Drugs.md",
+                "file": "Health Class/Chapter 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Health Class/Chapter 12 - Illegal Drugs.md",
+                "file": "Health Class/Chapter 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +169,7 @@
   },
   "active": "33552891089c11ec",
   "lastOpenFiles": [
+    "Health Class/Chapter 12 - Illegal Drugs.md",
     "Health Class/Chapter 4.md",
     "Health Class/Chapter 3 - Physical Fitness For Life.md",
     "GroupMe API/Abstraction.md",
@@ -177,7 +178,6 @@
     "GroupMe API/Map.md",
     "GroupMe Community Docs/messages.md",
     "CP Algebra 2 Final Review.md",
-    "conflict-files-obsidian-git.md",
-    "GroupMe Community Docs/self.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
