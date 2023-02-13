@@ -18,3 +18,6 @@
 
 ## Types of illegal drugs
 - Four commonly abused illegal drugs are marijuana, inhalants, ecstasy, and heroine
+
+## Marijuana
+- The active chemical in marijuana is THC
