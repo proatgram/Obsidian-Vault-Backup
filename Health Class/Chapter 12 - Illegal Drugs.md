@@ -10,3 +10,6 @@
 - Peer pressure
 - Escape from depression or boredom
 - Beliefs that drugs solve personal, social, or medical problems
+
+# Section 2: Commonly Abused Drugs
+- 
