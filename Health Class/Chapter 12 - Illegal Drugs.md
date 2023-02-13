@@ -12,4 +12,9 @@
 - Beliefs that drugs solve personal, social, or medical problems
 
 # Section 2: Commonly Abused Drugs
-- 
+- Ecstasy
+- Marijuana 
+- Anabolic Steroids
+
+## Types of illegal drugs
+- Four commonly abused illegal drugs are marijuana, inhalants, ecstasy, and heroine
