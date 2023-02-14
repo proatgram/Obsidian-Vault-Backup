@@ -48,3 +48,11 @@
 - Kill brain cells
 - Sudden Death
 
+## Teens and inhalants
+- Drugs that often lead to abuse of other drugs are called gateway drugs
+
+## Club Drugs
+- Club drugs include Ecstasy
+- GHB
+- PCP
+
