@@ -23,8 +23,13 @@
 - The active chemical in marijuana is THC
 
 ### Effects of taking Marijuana
+
+#### Short Term
 - Panic attack
 - Anxiety
 - Short term memory loss
 - Giddiness
-- Chr
+#### Long Term
+- Chronic bronchitis
+- Damaged lung tissue
+- Increased rick of cancer
