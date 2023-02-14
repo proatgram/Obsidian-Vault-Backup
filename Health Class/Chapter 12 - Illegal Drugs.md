@@ -22,3 +22,9 @@
 ## Marijuana
 - The active chemical in marijuana is THC
 
+### Effects of taking Marijuana
+- Panic attack
+- Anxiety
+- Short term memory loss
+- Giddiness
+- Chr
