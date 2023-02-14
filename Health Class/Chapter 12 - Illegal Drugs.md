@@ -74,4 +74,13 @@
 #### Female
 - Deeper voice
 - Increased facial hair
-# Section 3: Other drus of abuse
+
+# Section 3: Other drugs of abuse
+
+## Methamphetamie
+- Meth, Crystal, Ice
+- Looks white or yellowish crystals called rocks
+### Effects
+- Increased alertness
+- Loss of appetite
+- Hyperactivity
