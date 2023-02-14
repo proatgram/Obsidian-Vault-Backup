@@ -52,7 +52,11 @@
 - Drugs that often lead to abuse of other drugs are called gateway drugs
 
 ## Club Drugs
-- Club drugs include Ecstasy
+### Include all of but not limited to maybe?
+- Ecstasy
 - GHB
 - PCP
+- Look alike drugs
 
+## Ecstasy
+- The most commonly abused club drug
