@@ -58,10 +58,20 @@
 - PCP - Angel dust
 - Look alike drugs
 
-## Ecstasy
+### Ecstasy
 - The most commonly abused club drug
 
-## PCP
+### PCP
 - Angel dust
 
-# 
+## Anabolic steroids
+- Muscle building
+
+### Health problems
+#### Male
+- Stunted growth
+- Shrinking of balls ouch
+#### Female
+- Deeper voice
+- Increased facial hair
+# Section 3: Other drus of abuse
