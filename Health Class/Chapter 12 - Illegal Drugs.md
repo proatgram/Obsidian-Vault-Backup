@@ -36,3 +36,15 @@
 
 ## Hashish
 - Hashish also known as has, is the dark brown resin collected from the tops of the cannabis plant
+
+## Inhalants
+
+## Effects of inhalants
+- Dizziness
+- Loss of consciousness
+
+## Dangers of inhalants
+- Damage many organs
+- Kill brain cells
+- Sudden Death
+
