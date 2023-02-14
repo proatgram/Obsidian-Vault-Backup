@@ -21,3 +21,4 @@
 
 ## Marijuana
 - The active chemical in marijuana is THC
+
