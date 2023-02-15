@@ -102,4 +102,7 @@
 - The most commonly abused opiate
 
 ## Morphine and Codeine
-- Codeine 
+- Codeine is used for the relief of milder pain and sometimes to stop coughing
+
+## Hallucinognes
+- 
