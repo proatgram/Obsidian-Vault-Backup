@@ -35,7 +35,7 @@
 - Increased rick of cancer
 
 ## Hashish
-- Hashish also known as has, is the dark brown resin collected from the tops of the cannabis plant
+- Hashish also known as hash, is the dark brown resin collected from the tops of the cannabis plant
 
 ## Inhalants
 
