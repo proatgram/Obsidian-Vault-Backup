@@ -97,3 +97,5 @@
 ## Opiates
 - Opiates come from the flowing opium poppy plant
 - Example of opiates include heroin, opium, codeine, and morphine.
+
+## Heroin
