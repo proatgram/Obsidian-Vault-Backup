@@ -88,4 +88,12 @@
 ## Cocaine and Crack
 - Cocaine comes from the coca plant, which grows in South America.
 
-#
+## Rohyphnol
+- Rohyphnol is a powerful hypnotic that is also called roofies, or the forget pill
+
+## DXM
+- Dextromethorphan (DXM) is a legal ingredient in cough syrup that helps stop coughing. 
+
+## Opiates
+- Opiates come from the flowing opium poppy plant
+- Example of opiates include heroin, opium, codeine, and morphine.
