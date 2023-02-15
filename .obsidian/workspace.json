@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,17 +129,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9389dc38bbfc64e5",
+  "active": "33552891089c11ec",
   "lastOpenFiles": [
-    "Health Class/Chapter 3 - Physical Fitness For Life.md",
-    "GroupMe API/Abstraction.md",
-    "Health Class/Chapter 2 - Skills for a Healthy Life.md",
-    "Health Class/Chapter 1 - Leading a Healthy Life.md",
-    "Untitled.md",
-    "GroupMe API/Map.md",
-    "GroupMe Community Docs/messages.md",
-    "CP Algebra 2 Final Review.md",
-    "conflict-files-obsidian-git.md",
-    "GroupMe Community Docs/self.md"
+    "Health Class/Chapter 4.md",
+    "Health Class/Chapter 12 - Illegal Drugs.md",
   ]
 }
