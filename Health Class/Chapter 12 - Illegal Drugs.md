@@ -84,3 +84,8 @@
 - Increased alertness
 - Loss of appetite
 - Hyperactivity
+
+## Cocaine and Crack
+- Cocaine comes from the coca plant, which grows in South America.
+
+#
