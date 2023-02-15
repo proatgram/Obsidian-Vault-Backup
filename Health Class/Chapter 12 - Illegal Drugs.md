@@ -104,5 +104,6 @@
 ## Morphine and Codeine
 - Codeine is used for the relief of milder pain and sometimes to stop coughing
 
-## Hallucinognes
-- 
+## Hallucinogens
+- Drugs that distort perception and cause the user to experience things that aren't real
+- Hallucinogens can also cause produce extreme anxiety, fear, and paranoia
