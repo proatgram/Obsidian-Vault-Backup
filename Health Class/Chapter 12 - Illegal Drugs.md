@@ -116,3 +116,11 @@
 - Eaten raw or mixed with food
 
 # Section 4 | A drug free life
+
+## Drug abuse affects the individual
+
+## Risks of drug use continued
+- Car accidents
+- Accident injury or death
+- violence and or other criminal activity
+- 
