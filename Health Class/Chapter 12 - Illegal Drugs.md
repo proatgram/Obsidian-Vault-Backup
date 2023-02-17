@@ -107,3 +107,12 @@
 ## Hallucinogens
 - Drugs that distort perception and cause the user to experience things that aren't real
 - Hallucinogens can also cause produce extreme anxiety, fear, and paranoia
+
+## LSD
+- Tablet or on paper strips
+- Not easy to predict.
+
+## Mushrooms
+- Eaten raw or mixed with food
+
+# Section 4 | A drug free life
