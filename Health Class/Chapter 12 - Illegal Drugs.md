@@ -123,4 +123,6 @@
 - Car accidents
 - Accident injury or death
 - violence and or other criminal activity
-- 
+
+- Withdrawing from family intimacy activities
+- Repeatedly breaking household or school rules
