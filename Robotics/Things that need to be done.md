@@ -12,10 +12,12 @@ Will be used like the April-tags to find the location of the cone nodes.
 ```
 <------[April Tags]-----------|
 	|---> Inputs              |
-	|-> LimeLight  Data|
+	|-> LimeLight Data        |
 	|                         |
 	|---> Outputs             |
 	|-> Output to Drive Train |
+	|-> Maybe a position      |
+	|> chooser or something?  |
 	|                         |
 	|---> Features            |
 	|-> Detect where April-   |
@@ -29,4 +31,7 @@ Will be used like the April-tags to find the location of the cone nodes.
 <-----[Retro-reflective tape]-|
 	|---> Inputs
 	|-> LimeLight Data
+	|
+	|---> Outputs
+	|-
 ```
