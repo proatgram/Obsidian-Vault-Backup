@@ -10,5 +10,7 @@ Will be used like the April-tags to find the location of the cone nodes.
 
 ## Class structure maybe?
 ```
---
+--[April Tags]---|
+	|-> Input from LimeLight
+	|->
 ```
