@@ -2,6 +2,9 @@
 ##  Responsibilities of marriage
 - A healthy marriage requires both partners to work together to meet each others needs
 - Commitment
-- Comprimise
+	- A person can not change a spouses habits; the person can ony change their own
+- Compromise
+	- 
 
-# Engagement:
+# Engagement: Developing your relationships
+- 
