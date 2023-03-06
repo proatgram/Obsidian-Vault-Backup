@@ -22,3 +22,10 @@
 
 ## Emotional responsibilities
 - Children look to parents to have their emotional needs met.
+
+## Safety Responsibilities
+- Parents must always make sure their child is safe.
+- Th number one cause of death in toddlers and young children is accidents
+
+## Financial Responsibilities
+- Children also need basic items such as food, cloths, and medicine
