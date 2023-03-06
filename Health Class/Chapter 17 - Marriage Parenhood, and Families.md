@@ -17,3 +17,5 @@
 # Section 2 | Parenthood
 
 - Nothing in life is as joyful, meaningful , or exhausting as being a parent. Children require a lifetime if commitment, love, and support.
+## Responsiilities before birth
+- Parenting begins at pregnancy
