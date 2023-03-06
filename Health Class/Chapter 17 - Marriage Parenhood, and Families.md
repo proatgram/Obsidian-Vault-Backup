@@ -28,4 +28,4 @@
 - Th number one cause of death in toddlers and young children is accidents
 
 ## Financial Responsibilities
-- Children also need basic items such as food, cloths, and medicine
+- Children also need basic items such as food, cloths, and medicine, all of which cost money
