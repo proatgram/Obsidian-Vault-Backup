@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8328c065ba85399",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +133,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9d6b9976d2251547",
+  "active": "f8328c065ba85399",
   "lastOpenFiles": [
     "Health Class/Chapter 17 - Marriage Parenhood, and Families.md",
     "SudoCraft/Sudocraft Save Data Format.md",
