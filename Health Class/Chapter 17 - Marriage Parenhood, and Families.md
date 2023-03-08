@@ -29,3 +29,4 @@
 
 ## Financial Responsibilities
 - Children also need basic items such as food, cloths, and medicine, all of which cost money
+
