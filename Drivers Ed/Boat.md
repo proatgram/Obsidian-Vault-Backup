@@ -35,4 +35,4 @@
 
 # Ignition Safety Switch
 - This safety device can shut off the engine if the operator falls off the PWC or powerboat
-- 
+- To prevent 
