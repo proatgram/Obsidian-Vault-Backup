@@ -35,4 +35,9 @@
 
 # Ignition Safety Switch
 - This safety device can shut off the engine if the operator falls off the PWC or powerboat
-- To prevent 
+- To prevent propeller strike injuries turn off the boat when anyone is getting in or out
+
+# Registration
+- Registration number must be painted, applies as decal, or otherwise affixed to both sides of the bow and placed where it can be easily seen.
+
+- To operate boat, all ages must past boaters safety course
