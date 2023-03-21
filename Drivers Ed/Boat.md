@@ -10,5 +10,10 @@
 - Whenever possible, dock your boat in the wind or current
 
 # Navigation rules
-- It's the responsibility of every PWC operator to take all neccissary action to avoid collision
-- Failing to keep a sharp lookout is the 
+- It's the responsibility of every PWC operator to take all necessary action to avoid collision.
+- Failing to keep a sharp lookout is the most common  cause of collision.
+- When visibility is reduced, slow to minimum speed needed to stay on course.
+- The speed in a No Wake zone is 5mph or less
+
+- If two boats meet head on, they are both the give way vessel
+- The only time a sail boat is a give way vessel 
