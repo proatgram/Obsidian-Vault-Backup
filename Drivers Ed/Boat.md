@@ -16,4 +16,10 @@
 - The speed in a No Wake zone is 5mph or less
 
 - If two boats meet head on, they are both the give way vessel
-- The only time a sail boat is a give way vessel 
+- The only time a sail boat is a give way vessel is if it's passing
+
+# Navigation Lights
+- These lights must be displayed from sunset to sunrise and during periods of retricted visibility such as fog.
+
+- Boats on Alabama waters must be equipped with a horn, whistle, or other sound producing device
+- The purpose of the red and green boey system is to mark the edges of water ways safe for travel
