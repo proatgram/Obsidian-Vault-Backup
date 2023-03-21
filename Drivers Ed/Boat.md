@@ -41,3 +41,7 @@
 - Registration number must be painted, applies as decal, or otherwise affixed to both sides of the bow and placed where it can be easily seen.
 
 - To operate boat, all ages must past boaters safety course
+
+# Alcohol
+- The effects of alcohol are much greater on water than on land
+- By operating a boat in Alabama, you must submit to testing for blood alcohol concentration
