@@ -87,4 +87,9 @@
 - Boat operator is responsible for ensuring everyone understands basic safety practices like where to find fire extinguishers, PFD's, and Visual Distress Signals
 - Conduct Emergency Drill
 	- Be sure they can operate safely
+
+- Don't capsize kayake, low center of gravity, 3 points of contact
+- It is legal for a PWC to cross at a right angle when visibility is unobstructed 
+
+- Zebra Muscles
 	- 
