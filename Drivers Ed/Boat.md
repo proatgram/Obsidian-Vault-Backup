@@ -57,3 +57,9 @@
 
 # Fire Extinguishers
 - Extinguishers should be placed in an accessible area - not near the engine or in a compartment
+
+# Visual Distress Signals
+- Vessels on **federally controlled waters** (such as Alabama's coastal waters) must be equipped with U.S. Coast Guard-approved visual distress signals
+
+# Other Equipment and Regulations
+- Alabama law requires that vessel operators stay at least 100 feet from a diver-down flag
