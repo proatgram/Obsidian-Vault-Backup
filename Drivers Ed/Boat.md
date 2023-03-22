@@ -71,4 +71,8 @@
 - It is *strongly recommended* that PWCs be operated during daylight hours only. If a PWC is operated at night, it must display the required navigation lights
 
 # Towing a person with a vessel legally
-- It is legal to tow someone from one hour
+- It is legal to tow someone from one hour before sunrise to one hour after sunset
+- When towing you must have either a capable observer or a wide angle rear view mirror. 
+
+- If you witness a boating accident your first responsibility is to provide assistance
+- You must file an accident report if there is a death, injury, or damage of more than $2000
