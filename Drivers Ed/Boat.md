@@ -45,3 +45,9 @@
 # Alcohol
 - The effects of alcohol are much greater on water than on land
 - By operating a boat in Alabama, you must submit to testing for blood alcohol concentration
+
+# PFD's
+- Number of PFD's required, 1 per person and one throw-able
+- Not having enough PFD's is careless operation
+- Type 1 PFD is the only type is the only type to turn you face up in the water
+- Sizing for PFD's is based on body weight and chest size
