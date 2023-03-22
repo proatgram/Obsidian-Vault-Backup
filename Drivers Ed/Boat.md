@@ -74,5 +74,12 @@
 - It is legal to tow someone from one hour before sunrise to one hour after sunset
 - When towing you must have either a capable observer or a wide angle rear view mirror. 
 
+# Accidents on the water
 - If you witness a boating accident your first responsibility is to provide assistance
 - You must file an accident report if there is a death, injury, or damage of more than $2000
+
+# Cold water
+- Cold water is much more dangerous than cold air
+- If your boat capsizes in cold water re-board any part that's out of water for as long as possible
+
+- Carbon monoxide is dangerous because it is colorless, odorless, tasteless, and deadly
