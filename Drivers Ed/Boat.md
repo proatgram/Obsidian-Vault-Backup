@@ -63,3 +63,12 @@
 
 # Other Equipment and Regulations
 - Alabama law requires that vessel operators stay at least 100 feet from a diver-down flag
+
+# Homeland Security Restrictions
+- Do not approach within 100 yards and slow to  minimum speed within 500 yards of any U.S. Naval vessel
+
+# Requirements Specific to Personal Watercraft (PWCs)
+- It is *strongly recommended* that PWCs be operated during daylight hours only. If a PWC is operated at night, it must display the required navigation lights
+
+# Towing a person with a vessel legally
+- It is legal to tow someone from one hour
