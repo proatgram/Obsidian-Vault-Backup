@@ -51,3 +51,9 @@
 - Not having enough PFD's is careless operation
 - Type 1 PFD is the only type is the only type to turn you face up in the water
 - Sizing for PFD's is based on body weight and chest size
+- PFD's should be replaced if there are any rips or tears
+- Children under 8 must wear PFD at all times on a boat
+- Always wear PFD when hunting or fishing from boat
+
+# Fire Extinguishers
+- Extinguishers should be placed in an accessible area - not near the engine or in a compartment
