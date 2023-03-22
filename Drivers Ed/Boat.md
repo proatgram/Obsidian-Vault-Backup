@@ -83,3 +83,8 @@
 - If your boat capsizes in cold water re-board any part that's out of water for as long as possible
 
 - Carbon monoxide is dangerous because it is colorless, odorless, tasteless, and deadly
+
+- Boat operator is responsible for ensuring everyone understands basic safety practices like where to find fire extinguishers, PFD's, and Visual Distress Signals
+- Conduct Emergency Drill
+	- Be sure they can operate safely
+	- 
