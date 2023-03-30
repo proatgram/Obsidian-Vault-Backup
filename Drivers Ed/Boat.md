@@ -92,4 +92,9 @@
 - It is legal for a PWC to cross at a right angle when visibility is unobstructed 
 
 - Zebra Muscles
-	- 
+
+- Search
+- Identify
+- Predict
+- Decide
+- Execute
