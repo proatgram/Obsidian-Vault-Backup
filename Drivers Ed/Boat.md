@@ -107,3 +107,6 @@ Purpose of defensive systems is to minimize risk
 SIPDE is a constant on-going process
 
 in the predict phase you must learn to expect the worse case scenario
+
+in the decide phase you must communicate your intentions to others
+
