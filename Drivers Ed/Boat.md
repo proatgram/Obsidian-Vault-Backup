@@ -98,3 +98,7 @@
 - Predict
 - Decide
 - Execute
+
+Purpose of defensive systems is to minimize risk
+
+SIPDE is a constant on-going process
