@@ -110,3 +110,6 @@ in the predict phase you must learn to expect the worse case scenario
 
 in the decide phase you must communicate your intentions to others
 
+in the execute phase most of the maneuvers you make will be routine
+
+chances for sever accident over 30 1 in 85 teenagers 
