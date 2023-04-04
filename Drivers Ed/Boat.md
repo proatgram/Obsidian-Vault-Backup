@@ -118,4 +118,4 @@ chances for sever accident over 30 1 in 85 teenagers
 
 
 90 percent of all crashes involve some type of driver error
-9/10 are mistakes, vast magarity are distractions
+9/10 are mistakes, vast majarity are distractions
