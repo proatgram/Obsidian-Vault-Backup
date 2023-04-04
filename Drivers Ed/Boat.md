@@ -113,3 +113,9 @@ in the decide phase you must communicate your intentions to others
 in the execute phase most of the maneuvers you make will be routine
 
 chances for sever accident over 30 1 in 85 teenagers 
+
+
+
+
+90 percent of all crashes involve some type of driver error
+9/10 are mistakes, vast magarity are distractions
