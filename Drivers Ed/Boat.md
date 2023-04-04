@@ -119,3 +119,7 @@ chances for sever accident over 30 1 in 85 teenagers
 
 90 percent of all crashes involve some type of driver error
 9/10 are mistakes, vast majarity are distractions
+
+6 hours or less of sleep triples the chance for an accident
+
+stop every hundred miles to stop highway hypnosis
