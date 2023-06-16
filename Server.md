@@ -4,11 +4,11 @@ All of these are subject to change, and *will probably* change due to me just ex
 
  - GitLab (and their respective CI/CD runners)
  - PasteBin software
- - Drag n Drop file share
+ - Drag and Drop file share
  - EMail
  - Quite possibly a personal blog, maybe
  - Custom Matrix instance
- - Game servers (Interested in Modded Minecraft, but some mods, like IG Voice Chat require more ports than what playit.gg can offer)
+ - Game servers (Interested in Modded Minecraft, but some mods, like IG Voice Chat require more ports than what playit.gg can offer which is what I previously used for this)
  - Password Manager
  - Possibly some Software Development tools
  - URL Shortener
@@ -28,7 +28,6 @@ Having a domain will allow me to organize the applications that I run and host o
 ## Accessibility
 Having a domain will also allow me to have my work, whether it be through my GitLab, a blog, portfolio, or even just bare Git server, be able to be discovered by people. If I had my portfolio on my server, but no one could access it, that wouldn't be that useful. Same for my GitLab, I use my projects, my README / description on my profiles, Git history, etc to show my work, how good I am, what I can do, to people who might want to work with me, maybe a major company, or just a team of 10 wanting to get something done. In addition to that, having a Git server running on a server that is not accessible to places where I might need it would be a problem. I might need to have access to that in order to push a critical fix to a bug.
 
-
 # Security
 ---
 With a public server comes a need for security. Using tools that I have and will continue to learn how to use effectively I will secure the server.
@@ -47,4 +46,5 @@ Exposing a port on our home network poses a major security risk as people could 
 External browser HTTP Request -> Cloudlfair Network / Server HTTP Request -> Cloudflaird Software running on server -> Local service.
 
 This has the effect of hiding our public IP behind Cloudlflair and having their IP behind it.
-!()[]
+
+![](https://developers.cloudflare.com/assets/handshake-dc58ec8d.jpg)
