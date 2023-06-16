@@ -32,5 +32,9 @@ Having a domain will also allow me to have my work, whether it be through my Git
 ---
 With a public server comes a need for security. Using tools that I have and will continue to learn how to use effectively I will secure the server.
 
- ## Firewalld
- 
+See [Self-Hosting-Guide#]
+
+## Firewalld
+Firewalld is a firewall application that is highly advanced and allows for configurations based on a multitude of different situations. Using this I can block many different ports to fight against different attacks that might happen.
+
+## Fail2Ban
