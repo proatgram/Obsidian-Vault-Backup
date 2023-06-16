@@ -1,4 +1,18 @@
-# Apps I'm planning on 
+# Apps I'm planning on tinkering with or running
+---
+All of these are subject to change, and *will probably* change due to me just experimenting with different things, trying them out, etc. This list is more or le
+ - GitLab (and their respective CI/CD runners)
+ - PasteBin software
+ - Drag n Drop file share
+ - EMail
+ - Quite possibly a personal blog, maybe
+ - Custom Matrix instance
+ - Game servers (Interested in Modded Minecraft, but some mods, like IG Voice Chat require more ports than what playit.gg can offer)
+ - Password Manager
+ - Possibly some Software Development tools
+ - URL Shortener
+
+
 # Reasons to have a domain
 ---
 I would like something to do, I have seen some videos and some posts of peoples' setups which looked really awesome, I have been in need of a new hobby and this has peaked my interest. I began tinkering around with server stuff a while before I asked about the domain, but I was pretty limited on what I could do. A lot of the "basic" applications I hosted successfully were kinda useless without a way to share a custom URL. For example a PasteBin software, used to share say error logs, coredumps, configurations, etc, would need a way to share whatever text you save on it, hence a need for a public domain that you can easily pass around. 
