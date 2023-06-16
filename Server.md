@@ -42,4 +42,9 @@ Firewalld is a firewall application that is highly advanced and allows for confi
 This software will scan logs and detect malicious activity performed by IP addresses and ban them.
 
 ## Cloudflair Tunnel
+Exposing a port on our home network poses a major security risk as people could target our home, find our public IP, DDOS, and even more. This isn't important in this context, but our IP is not static, making it hard for a domain name to be kept with the IP. Using [Cloudflair tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/), a user of the domain could connect to the domain, which would have a flow similar to this:
 
+External browser HTTP Request -> Cloudlfair Network / Server HTTP Request -> Cloudflaird Software running on server -> Local service.
+
+This has the effect of hiding our public IP behind Cloudlflair and having their IP behind it.
+!()[]
