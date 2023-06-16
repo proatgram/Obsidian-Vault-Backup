@@ -40,3 +40,6 @@ Firewalld is a firewall application that is highly advanced and allows for confi
 
 ## Fail2Ban
 This software will scan logs and detect malicious activity performed by IP addresses and ban them.
+
+## Cloudflair Tunnel
+
